@@ -6,20 +6,22 @@ ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
-PlayResX: 1424
+PlayResX: 1440
 PlayResY: 1080
 Original Translation: 1440kHz
+Update Details: v2
 
 [Aegisub Project Garbage]
+Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default
-Audio File: S03E10 Wet Painters & Krusty Krab Training Video .mkv
-Video File: S03E10 Wet Painters & Krusty Krab Training Video .mkv
+Audio File: SpongeBob SquarePants_S03E10_Wet Painters_Krusty Krab Training Video.mkv
+Video File: SpongeBob SquarePants_S03E10_Wet Painters_Krusty Krab Training Video.mkv
 Video AR Mode: 4
-Video AR Value: 1.318519
+Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 978
-Active Line: 956
-Video Position: 33306
+Scroll Position: 586
+Active Line: 612
+Video Position: 25668
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -104,7 +106,7 @@ Dialogue: 1,0:01:37.32,0:01:39.53,标准-Chi,,0,0,0,,哪个傻子跟你们说要
 Dialogue: 0,0:01:37.32,0:01:39.53,标准-Eng,,0,0,0,,What stupid barnacle told you that?
 Dialogue: 1,0:01:41.33,0:01:43.98,标准-Chi,,0,0,0,,听好  你们别自残了
 Dialogue: 0,0:01:41.33,0:01:43.98,标准-Eng,,0,0,0,,Listen, instead of killing yourselves
-Dialogue: 1,0:01:43.98,0:01:47.46,标准-Chi,,0,0,0,,我有非常重要的事情要让你们给我做
+Dialogue: 1,0:01:43.98,0:01:47.46,标准-Chi,,0,0,0,,我有非常重要的事情要交给你们
 Dialogue: 0,0:01:43.98,0:01:47.46,标准-Eng,,0,0,0,,I've got something real important for you to do for me
 Dialogue: 1,0:01:48.88,0:01:53.25,标准-Chi,,0,0,0,,你们有没有准备好面对你们的超级
 Dialogue: 0,0:01:48.88,0:01:53.25,标准-Eng,,0,0,0,,Now, are you men ready for your super
@@ -120,7 +122,7 @@ Dialogue: 1,0:01:59.55,0:02:01.35,标准-Chi,,0,0,0,,神秘
 Dialogue: 0,0:01:59.55,0:02:01.35,标准-Eng,,0,0,0,,"Secret"
 Dialogue: 1,0:02:01.46,0:02:02.60,标准-Chi,,0,0,0,,的任务
 Dialogue: 0,0:02:01.46,0:02:02.60,标准-Eng,,0,0,0,,Assignment
-Dialogue: 1,0:02:05.02,0:02:06.66,标准-Chi,,0,0,0,,让我们脱离苦海吧
+Dialogue: 1,0:02:05.02,0:02:06.66,标准-Chi,,0,0,0,,别吊我们胃口了
 Dialogue: 0,0:02:05.02,0:02:06.66,标准-Eng,,0,0,0,,Put us out of our misery
 Dialogue: 1,0:02:06.66,0:02:08.27,标准-Chi,,0,0,0,,一定要知道  一定要知道
 Dialogue: 0,0:02:06.66,0:02:08.27,标准-Eng,,0,0,0,,I gotta know, I gotta know
@@ -161,7 +163,7 @@ Dialogue: 1,0:02:56.06,0:02:57.54,标准-Chi,,0,0,0,,我说的就这个意思
 Dialogue: 0,0:02:56.06,0:02:57.54,标准-Eng,,0,0,0,,Well, that's what I said
 Dialogue: 1,0:02:57.54,0:02:59.88,标准-Chi,,0,0,0,,我们不领工钱  就这么定了
 Dialogue: 0,0:02:57.54,0:02:59.88,标准-Eng,,0,0,0,,We're not getting paid, and that's final
-Dialogue: 1,0:02:59.88,0:03:02.59,标准-Chi,,0,0,0,,那就刷东西周围的地方吧
+Dialogue: 1,0:02:59.88,0:03:02.59,标准-Chi,,0,0,0,,好吧  那就绕开这些东西刷
 Dialogue: 0,0:02:59.88,0:03:02.59,标准-Eng,,0,0,0,,Okay, we'll just paint around all this stuff
 Dialogue: 1,0:03:02.59,0:03:04.95,标准-Chi,,0,0,0,,不错  别给我工钱就行
 Dialogue: 0,0:03:02.59,0:03:04.95,标准-Eng,,0,0,0,,Good, just don't pay me
@@ -364,9 +366,9 @@ Dialogue: 0,0:08:07.64,0:08:08.68,标准-Eng,,0,0,0,,Now all we have to
 Dialogue: 1,0:08:08.68,0:08:09.88,标准-Chi,,0,0,0,,派大星  不要
 Dialogue: 0,0:08:08.68,0:08:09.88,标准-Eng,,0,0,0,,Patrick, no
 Dialogue: 0,0:08:09.88,0:08:11.09,画面内容,,0,0,0,,{\pos(938.956,148.999)}糖果
-Dialogue: 0,0:08:11.09,0:08:23.69,画面内容,,0,0,0,,{\pos(1073.524,785)}投币
 Dialogue: 1,0:08:11.09,0:08:12.58,标准-Chi,,0,0,0,,派大星  不要
 Dialogue: 0,0:08:11.09,0:08:12.58,标准-Eng,,0,0,0,,Patrick, no
+Dialogue: 0,0:08:11.09,0:08:23.69,画面内容,,0,0,0,,{\pos(1073.524,785)}投币
 Dialogue: 1,0:08:12.58,0:08:13.43,标准-Chi,,0,0,0,,你投什么投
 Dialogue: 0,0:08:12.58,0:08:13.43,标准-Eng,,0,0,0,,Why did you put it?
 Dialogue: 1,0:08:14.26,0:08:15.09,标准-Chi,,0,0,0,,快取  派大星
@@ -449,7 +451,7 @@ Dialogue: 1,0:09:28.21,0:09:29.55,标准-Chi,,0,0,0,,不能怪我们
 Dialogue: 0,0:09:28.21,0:09:29.55,标准-Eng,,0,0,0,,That's not our fault
 Dialogue: 1,0:09:29.55,0:09:31.55,标准-Chi,,0,0,0,,我不想没屁股啊
 Dialogue: 0,0:09:29.55,0:09:31.55,标准-Eng,,0,0,0,,I don't want to be buttless
-Dialogue: 1,0:09:32.13,0:09:36.59,标准-Chi,,0,0,0,,地板上的花纹多半是自个刷上去的吧
+Dialogue: 1,0:09:32.13,0:09:36.59,标准-Chi,,0,0,0,,踢脚线的漆多半是它自个刷上去的吧
 Dialogue: 0,0:09:32.13,0:09:34.34,标准-Eng,,0,0,0,,And I suppose the floor molding
 Dialogue: 0,0:09:34.34,0:09:36.59,标准-Eng,,0,0,0,,just painted itself on its own
 Dialogue: 1,0:09:37.18,0:09:39.64,标准-Chi,,0,0,0,,这才叫好手艺
@@ -485,9 +487,9 @@ Dialogue: 1,0:10:17.30,0:10:18.59,标准-Chi,,0,0,0,,嗨  蟹老板
 Dialogue: 0,0:10:17.30,0:10:18.59,标准-Eng,,0,0,0,,Hi, Mr. Krabs
 Dialogue: 1,0:10:18.59,0:10:20.22,标准-Chi,,0,0,0,,海绵宝宝  你在搞什么
 Dialogue: 0,0:10:18.59,0:10:20.22,标准-Eng,,0,0,0,,SpongeBob, what are you doing?
-Dialogue: 0,0:10:20.72,0:10:22.60,画面内容,,0,0,0,,{\fs60\pos(946,920)}挂 着
 Dialogue: 1,0:10:20.72,0:10:22.60,标准-Chi,,0,0,0,,就是那个  到处闲晃
 Dialogue: 0,0:10:20.72,0:10:22.60,标准-Eng,,0,0,0,,You know, just hanging around
+Dialogue: 0,0:10:20.72,0:10:22.60,画面内容,,0,0,0,,{\fs60\pos(953,920)}挂 着
 Dialogue: 1,0:10:22.82,0:10:23.95,标准-Chi,,0,0,0,,烂
 Dialogue: 0,0:10:22.82,0:10:23.95,标准-Eng,,0,0,0,,Boo
 Dialogue: 1,0:10:23.95,0:10:26.02,标准-Chi,,0,0,0,,站地上来  小子
@@ -542,19 +544,19 @@ Dialogue: 1,0:11:49.10,0:11:50.07,标准-Chi,,0,0,0,,该死
 Dialogue: 0,0:11:49.10,0:11:50.07,标准-Eng,,0,0,0,,Crud
 Dialogue: 1,0:11:50.07,0:11:52.85,标准-Chi,,0,0,0,,话得用正常说的  不能到处乱喷
 Dialogue: 0,0:11:50.07,0:11:52.85,标准-Eng,,0,0,0,,I really got to learn to say it, not spray it
-Dialogue: 0,0:11:54.27,0:11:56.82,画面内容,,0,0,0,,{\fs101.25\pos(712,793.001)}蟹堡王培训视频
-Dialogue: 1,0:11:56.82,0:11:59.28,画面内容,,0,0,0,,{\fs83.25\pos(712,275)}分镜总监
-Dialogue: 1,0:11:56.82,0:11:59.28,画面内容,,0,0,0,,{\fs83.25\pos(712,751)}分镜
+Dialogue: 0,0:11:54.27,0:11:56.82,画面内容,,0,0,0,,{\fs101.25\pos(720,793.001)}蟹堡王培训视频
+Dialogue: 1,0:11:56.82,0:11:59.28,画面内容,,0,0,0,,{\fs83.25\pos(720,275)}分镜总监
+Dialogue: 1,0:11:56.82,0:11:59.28,画面内容,,0,0,0,,{\fs83.25\pos(720,751)}分镜
 Dialogue: 0,0:11:56.82,0:11:59.28,画面内容,,0,0,0,,{\p1\pos(724.052,282.998)\c&H000000&}m 0 0 l 1125 0 1125 112.5 0 112.5
 Dialogue: 0,0:11:56.82,0:11:59.28,画面内容,,0,0,0,,{\p1\c&H000000&\pos(712.002,754.999)}m 0 0 l 1125 0 1125 112.5 0 112.5
-Dialogue: 0,0:11:56.82,0:12:01.78,画面内容,,0,0,0,,{\pos(712,1025.001)}翻译    {\fnArial\b1}1440kHz
-Dialogue: 1,0:11:59.28,0:12:01.78,画面内容,,0,0,0,,{\fs83.25\pos(712,377)}编剧
+Dialogue: 0,0:11:56.82,0:12:01.78,画面内容,,0,0,0,,{\pos(720,1025.001)}翻译    {\fnArial\b1}1440kHz
+Dialogue: 1,0:11:59.28,0:12:01.78,画面内容,,0,0,0,,{\fs83.25\pos(720,377)}编剧
 Dialogue: 0,0:11:59.28,0:12:01.78,画面内容,,0,0,0,,{\p1\c&H000000&\pos(714.01,401)}m 0 0 l 1125 0 1125 112.5 0 112.5
-Dialogue: 1,0:12:01.78,0:12:04.28,画面内容,,0,0,0,,{\fs83.25\pos(712,343)}动画总监
-Dialogue: 1,0:12:01.78,0:12:04.28,画面内容,,0,0,0,,{\fs83.25\pos(712,687)}创意总监
+Dialogue: 1,0:12:01.78,0:12:04.28,画面内容,,0,0,0,,{\fs83.25\pos(720,343)}动画总监
+Dialogue: 1,0:12:01.78,0:12:04.28,画面内容,,0,0,0,,{\fs83.25\pos(720,687)}创意总监
 Dialogue: 0,0:12:01.78,0:12:04.28,画面内容,,0,0,0,,{\p1\c&H000000&\pos(705.975,361)}m 0 0 l 1125 0 1125 112.5 0 112.5
 Dialogue: 0,0:12:01.78,0:12:04.28,画面内容,,0,0,0,,{\p1\c&H000000&\pos(679.866,681)}m 0 0 l 1125 0 1125 112.5 0 112.5
-Dialogue: 0,0:12:01.78,0:12:04.28,画面内容,,0,0,0,,{\pos(712,1025)}本字幕仅限学习交流\N严禁用于商业用途
+Dialogue: 0,0:12:01.78,0:12:04.28,画面内容,,0,0,0,,{\pos(720,1025)}本字幕仅限学习交流\N严禁用于商业用途
 Dialogue: 0,0:12:04.28,0:12:05.37,画面内容,,0,0,0,,{\pos(420.772,259)}此处点餐
 Dialogue: 0,0:12:05.74,0:12:06.08,画面内容,,0,0,0,,{\pos(732.084,505)}菜单
 Dialogue: 0,0:12:06.08,0:12:07.66,画面内容,,0,0,0,,{\pos(697.941,995)}蟹堡王
@@ -603,7 +605,7 @@ Dialogue: 1,0:12:53.57,0:12:54.75,标准-Chi,,0,0,0,,挥洒汗水
 Dialogue: 0,0:12:53.57,0:12:54.75,标准-Eng,,0,0,0,,and sweat
 Dialogue: 1,0:12:55.08,0:12:57.29,标准-Chi,,0,0,0,,汗水最关键
 Dialogue: 0,0:12:55.08,0:12:57.29,标准-Eng,,0,0,0,,But mostly his sweat
-Dialogue: 0,0:12:57.29,0:12:59.75,画面内容,,0,0,0,,{\pos(609.568,1025.001)}卑微的开始
+Dialogue: 0,0:12:57.29,0:12:59.75,画面内容,,0,0,0,,{\pos(609.568,1025.001)}白手起家
 Dialogue: 1,0:12:59.75,0:13:02.19,标准-Chi,,0,0,0,,你可能会想  尤金蟹老板
 Dialogue: 0,0:12:59.75,0:13:02.19,标准-Eng,,0,0,0,,You may think Mr. Eugene H. Krabs
 Dialogue: 1,0:13:02.19,0:13:04.70,标准-Chi,,0,0,0,,蟹堡王公司的所有者及创办者
@@ -615,7 +617,7 @@ Dialogue: 1,0:13:11.47,0:13:12.52,标准-Chi,,0,0,0,,你想得对
 Dialogue: 0,0:13:11.47,0:13:12.52,标准-Eng,,0,0,0,,And you're right
 Dialogue: 1,0:13:15.94,0:13:17.28,标准-Chi,,0,0,0,,战后
 Dialogue: 0,0:13:15.94,0:13:17.28,标准-Eng,,0,0,0,,After the war
-Dialogue: 1,0:13:17.28,0:13:21.48,标准-Chi,,0,0,0,,没完没了的大萧条让蟹老板与世隔绝
+Dialogue: 1,0:13:17.28,0:13:21.48,标准-Chi,,0,0,0,,蟹老板深陷无尽的抑郁  与世隔绝
 Dialogue: 0,0:13:17.28,0:13:19.94,标准-Eng,,0,0,0,,Krabs stayed secluded in a deep depression
 Dialogue: 0,0:13:19.94,0:13:21.48,标准-Eng,,0,0,0,,that seemed endless
 Dialogue: 1,0:13:21.48,0:13:23.15,标准-Chi,,0,0,0,,但后来他大幅转运
@@ -624,9 +626,9 @@ Dialogue: 1,0:13:23.15,0:13:25.47,标准-Chi,,0,0,0,,收购了一家破产的养
 Dialogue: 0,0:13:23.15,0:13:25.47,标准-Eng,,0,0,0,,when he acquired a bankrupt retirement home
 Dialogue: 1,0:13:25.47,0:13:28.07,标准-Chi,,0,0,0,,作了几处细微的改变之后
 Dialogue: 0,0:13:25.47,0:13:28.07,标准-Eng,,0,0,0,,and with a few minor alterations
-Dialogue: 0,0:13:28.74,0:13:30.16,画面内容,,0,0,0,,{\pos(858.618,701.001)}蟹堡亡
 Dialogue: 1,0:13:28.74,0:13:30.62,标准-Chi,,0,0,0,,蟹堡王诞生了
 Dialogue: 0,0:13:28.74,0:13:30.62,标准-Eng,,0,0,0,,The Krusty Krab was born
+Dialogue: 0,0:13:28.74,0:13:30.16,画面内容,,0,0,0,,{\pos(858.618,701.001)}蟹堡亡
 Dialogue: 0,0:13:30.16,0:13:30.87,画面内容,,0,0,0,,{\pos(858.618,701.001)}蟹堡王
 Dialogue: 1,0:13:33.08,0:13:34.75,标准-Chi,,0,0,0,,听上去好像有很多
 Dialogue: 0,0:13:33.08,0:13:34.75,标准-Eng,,0,0,0,,Sounds like a lot of
@@ -644,7 +646,7 @@ Dialogue: 1,0:13:41.84,0:13:42.88,标准-Chi,,0,0,0,,废话
 Dialogue: 0,0:13:41.84,0:13:42.88,标准-Eng,,0,0,0,,Hoopla
 Dialogue: 1,0:13:44.97,0:13:46.55,标准-Chi,,0,0,0,,听上去好像要讲很多废话
 Dialogue: 0,0:13:44.97,0:13:46.55,标准-Eng,,0,0,0,,Sounds like a lot of hoopla
-Dialogue: 1,0:13:46.55,0:13:48.84,标准-Chi,,0,0,0,,才可以做一个小小的蟹黄堡对吧
+Dialogue: 1,0:13:46.55,0:13:48.84,标准-Chi,,0,0,0,,才能移交一个小蟹黄堡的所有权对吧
 Dialogue: 0,0:13:46.55,0:13:48.84,标准-Eng,,0,0,0,,to make over a little Krabby Patty, right?
 Dialogue: 1,0:13:49.72,0:13:50.39,标准-Chi,,0,0,0,,错
 Dialogue: 0,0:13:49.72,0:13:50.39,标准-Eng,,0,0,0,,Wrong
@@ -696,7 +698,7 @@ Dialogue: 1,0:14:41.91,0:14:45.09,标准-Chi,,0,0,0,,不过如果说现代化是
 Dialogue: 0,0:14:41.91,0:14:45.09,标准-Eng,,0,0,0,,But if modernization is the heart of The Krusty Krab
 Dialogue: 1,0:14:45.09,0:14:48.20,标准-Chi,,0,0,0,,那么员工就是肝和胆
 Dialogue: 0,0:14:45.09,0:14:48.20,标准-Eng,,0,0,0,,then employees are the liver and gallbladder
-Dialogue: 1,0:14:48.20,0:14:50.36,标准-Chi,,0,0,0,,来看看你是否明白其中的含义
+Dialogue: 1,0:14:48.20,0:14:50.36,标准-Chi,,0,0,0,,来看看你有没有相应的素质
 Dialogue: 0,0:14:48.20,0:14:50.36,标准-Eng,,0,0,0,,Let's see if you've got what it takes
 Dialogue: 1,0:14:51.66,0:14:53.47,标准-Chi,,0,0,0,,沉着  自信
 Dialogue: 0,0:14:51.66,0:14:53.47,标准-Eng,,0,0,0,,poised, confident
@@ -785,9 +787,9 @@ Dialogue: 0,0:16:26.75,0:16:29.43,标准-Eng,,0,0,0,,Not so fast, Eager McBeaver
 Dialogue: 1,0:16:29.43,0:16:31.17,标准-Chi,,0,0,0,,我们还没谈到
 Dialogue: 0,0:16:29.43,0:16:31.17,标准-Eng,,0,0,0,,We haven't even talked about
 Dialogue: 0,0:16:31.17,0:16:32.93,画面内容,,0,0,0,,{\pos(768.236,791.001)}个人卫生
-Dialogue: 0,0:16:35.01,0:16:45.31,画面内容,,0,0,0,,{\pos(284.198,133)}请洗鳍
 Dialogue: 1,0:16:35.01,0:16:37.18,标准-Chi,,0,0,0,,蟹堡王的每一名员工
 Dialogue: 0,0:16:35.01,0:16:37.18,标准-Eng,,0,0,0,,Every employee of The Krusty Krab
+Dialogue: 0,0:16:35.01,0:16:45.31,画面内容,,0,0,0,,{\pos(284.198,133)}请洗鳍
 Dialogue: 1,0:16:37.18,0:16:40.64,标准-Chi,,0,0,0,,必须执行一套严格的个人卫生准则
 Dialogue: 0,0:16:37.18,0:16:38.93,标准-Eng,,0,0,0,,must comply with a strict set
 Dialogue: 0,0:16:38.93,0:16:40.64,标准-Eng,,0,0,0,,of personal hygiene guidelines
@@ -807,11 +809,11 @@ Dialogue: 1,0:16:58.53,0:17:00.66,标准-Chi,,0,0,0,,好了  看看洗好的手
 Dialogue: 0,0:16:58.53,0:17:00.66,标准-Eng,,0,0,0,,All right, let's see those hands
 Dialogue: 1,0:17:02.58,0:17:04.12,标准-Chi,,0,0,0,,深入细致
 Dialogue: 0,0:17:02.58,0:17:04.12,标准-Eng,,0,0,0,,Now, that's thorough
-Dialogue: 1,0:17:05.21,0:17:08.34,标准-Chi,,0,0,0,,确保了你的脚磨过光
+Dialogue: 1,0:17:05.21,0:17:08.34,标准-Chi,,0,0,0,,确保了你的脚擦得锃亮
 Dialogue: 0,0:17:05.21,0:17:08.34,标准-Eng,,0,0,0,,After making sure your feet are polished
-Dialogue: 1,0:17:08.34,0:17:11.51,标准-Chi,,0,0,0,,你的脸上没有疤痕和疖子
+Dialogue: 1,0:17:08.34,0:17:11.51,标准-Chi,,0,0,0,,脸上没有疤痕和疖子
 Dialogue: 0,0:17:08.34,0:17:11.51,标准-Eng,,0,0,0,,your face is clear of any blemishes or boils
-Dialogue: 1,0:17:12.84,0:17:14.84,标准-Chi,,0,0,0,,你的头发干净整洁
+Dialogue: 1,0:17:12.84,0:17:14.84,标准-Chi,,0,0,0,,头发干净整洁
 Dialogue: 0,0:17:12.84,0:17:14.84,标准-Eng,,0,0,0,,and your hair is neat and tidy
 Dialogue: 1,0:17:17.55,0:17:20.15,标准-Chi,,0,0,0,,你准备好要开启全新一天了
 Dialogue: 0,0:17:17.55,0:17:20.15,标准-Eng,,0,0,0,,you are ready to start the day
@@ -994,9 +996,9 @@ Dialogue: 1,0:21:48.64,0:21:51.74,标准-Chi,,0,0,0,,那么该到了你迫切等
 Dialogue: 0,0:21:48.64,0:21:51.74,标准-Eng,,0,0,0,,it's time for the moment you've been waiting for
 Dialogue: 1,0:22:22.94,0:22:25.53,标准-Chi,,0,0,0,,制作蟹黄堡
 Dialogue: 0,0:22:22.94,0:22:25.53,标准-Eng,,0,0,0,,Preparing the Krabby Patty
-Dialogue: 0,0:22:25.53,0:22:30.87,画面内容,,0,0,0,,{\pos(1061.472,579.001)}蟹黄堡  蟹堡王独家
 Dialogue: 1,0:22:25.53,0:22:29.35,标准-Chi,,0,0,0,,每个伟大王朝的中央都有耀眼的王冠
 Dialogue: 0,0:22:25.53,0:22:29.35,标准-Eng,,0,0,0,,At the center of every great dynasty is the crown jewel
+Dialogue: 0,0:22:25.53,0:22:30.87,画面内容,,0,0,0,,{\pos(1061.472,579.001)}蟹黄堡  蟹堡王独家
 Dialogue: 1,0:22:29.35,0:22:31.70,标准-Chi,,0,0,0,,保持着王朝的兴旺与发达
 Dialogue: 0,0:22:29.35,0:22:31.70,标准-Eng,,0,0,0,,which keeps it alive and thriving
 Dialogue: 1,0:22:31.70,0:22:35.75,标准-Chi,,0,0,0,,对于蟹堡王  这个王冠就是蟹黄堡
