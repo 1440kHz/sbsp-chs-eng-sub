@@ -4,21 +4,22 @@
 Title: SpongeBob SquarePants - S03E02
 ScriptType: v4.00+
 WrapStyle: 0
-PlayResX: 1424
+PlayResX: 1440
 PlayResY: 1080
 ScaledBorderAndShadow: yes
 Original Translation: 1440kHz
 YCbCr Matrix: TV.601
+Update Details: v2
 
 [Aegisub Project Garbage]
-Audio File: S03E02 Club SpongeBob & My Pretty Seahorse .mkv
-Video File: S03E02 Club SpongeBob & My Pretty Seahorse .mkv
+Audio File: SpongeBob SquarePants_S03E02_Club Spongebob_My Pretty Seahorse(1).mkv
+Video File: SpongeBob SquarePants_S03E02_Club Spongebob_My Pretty Seahorse(1).mkv
 Video AR Mode: 4
-Video AR Value: 1.318519
+Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 891
-Active Line: 877
-Video Position: 32873
+Scroll Position: 867
+Active Line: 875
+Video Position: 32843
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -98,7 +99,7 @@ Dialogue: 1,0:01:57.23,0:01:58.29,标准-Chi,,0,0,0,,是一个条件
 Dialogue: 0,0:01:57.23,0:01:58.29,标准-Eng,,0,0,0,,as a requirement
 Dialogue: 1,0:01:59.43,0:02:00.87,标准-Chi,,0,0,0,,抱歉  章鱼哥
 Dialogue: 0,0:01:59.43,0:02:00.87,标准-Eng,,0,0,0,,Sorry, Squidward
-Dialogue: 1,0:02:00.87,0:02:03.75,标准-Chi,,0,0,0,,就算你试过了  也不能加入
+Dialogue: 1,0:02:00.87,0:02:03.75,标准-Chi,,0,0,0,,就算你想进也进不来
 Dialogue: 0,0:02:00.87,0:02:03.75,标准-Eng,,0,0,0,,but you couldn't get in even if you tried
 Dialogue: 1,0:02:04.52,0:02:06.58,标准-Chi,,0,0,0,,我倒要让你们知道
 Dialogue: 0,0:02:04.52,0:02:06.58,标准-Eng,,0,0,0,,Well, I'll have you know
@@ -125,10 +126,10 @@ Dialogue: 1,0:02:29.96,0:02:30.36,标准-Chi,,0,0,0,,不不不
 Dialogue: 0,0:02:29.96,0:02:30.36,标准-Eng,,0,0,0,,No, no, no
 Dialogue: 1,0:02:30.37,0:02:30.80,标准-Chi,,0,0,0,,住手
 Dialogue: 0,0:02:30.37,0:02:30.80,标准-Eng,,0,0,0,,Stop
-Dialogue: 1,0:02:30.80,0:02:31.38,标准-Chi,,0,0,0,,住手  章鱼哥
-Dialogue: 0,0:02:30.80,0:02:31.38,标准-Eng,,0,0,0,,Stop, Squidward
-Dialogue: 1,0:02:31.38,0:02:32.35,标准-Chi,,0,0,0,,你不能加入
-Dialogue: 0,0:02:31.38,0:02:32.35,标准-Eng,,0,0,0,,You can't join
+Dialogue: 1,0:02:30.80,0:02:31.46,标准-Chi,,0,0,0,,住手  章鱼哥
+Dialogue: 0,0:02:30.80,0:02:31.46,标准-Eng,,0,0,0,,Stop, Squidward
+Dialogue: 1,0:02:31.46,0:02:32.35,标准-Chi,,0,0,0,,你不能加入
+Dialogue: 0,0:02:31.46,0:02:32.35,标准-Eng,,0,0,0,,You can't join
 Dialogue: 1,0:02:32.35,0:02:33.00,标准-Chi,,0,0,0,,不能加入
 Dialogue: 0,0:02:32.35,0:02:33.00,标准-Eng,,0,0,0,,Can't join
 Dialogue: 1,0:02:33.00,0:02:34.43,标准-Chi,,0,0,0,,你不能进来
@@ -145,7 +146,7 @@ Dialogue: 1,0:02:47.60,0:02:49.82,标准-Chi,,0,0,0,,早就提醒过你塞不进
 Dialogue: 0,0:02:47.60,0:02:49.82,标准-Eng,,0,0,0,,We told you you wouldn't fit in
 Dialogue: 1,0:02:51.67,0:02:52.97,标准-Chi,,0,0,0,,那既然你进来了  章鱼哥
 Dialogue: 0,0:02:51.67,0:02:52.97,标准-Eng,,0,0,0,,Well, since you're here, Squidward
-Dialogue: 1,0:02:52.97,0:02:54.90,标准-Chi,,0,0,0,,就给你举行个新会员加入仪式
+Dialogue: 1,0:02:52.97,0:02:54.90,标准-Chi,,0,0,0,,就给你办个入会仪式吧
 Dialogue: 0,0:02:52.97,0:02:54.90,标准-Eng,,0,0,0,,we'll give you the new member initiation
 Dialogue: 1,0:02:54.90,0:02:56.22,标准-Chi,,0,0,0,,准备好了吗  派大星
 Dialogue: 0,0:02:54.90,0:02:56.22,标准-Eng,,0,0,0,,Are you ready, Patrick?
@@ -193,7 +194,7 @@ Dialogue: 1,0:04:00.42,0:04:02.17,标准-Chi,,0,0,0,,为什么
 Dialogue: 0,0:04:00.42,0:04:02.17,标准-Eng,,0,0,0,,Why?
 Dialogue: 1,0:04:02.62,0:04:03.65,标准-Chi,,0,0,0,,振作点  章鱼哥
 Dialogue: 0,0:04:02.62,0:04:03.65,标准-Eng,,0,0,0,,Cheer up, Squid
-Dialogue: 1,0:04:03.65,0:04:04.72,标准-Chi,,0,0,0,,还会更糟的
+Dialogue: 1,0:04:03.65,0:04:04.72,标准-Chi,,0,0,0,,没准会更糟
 Dialogue: 0,0:04:03.65,0:04:04.72,标准-Eng,,0,0,0,,It could be worse
 Dialogue: 1,0:04:04.72,0:04:07.47,标准-Chi,,0,0,0,,对啊  你可能会秃头还长个大鼻子
 Dialogue: 0,0:04:04.72,0:04:07.47,标准-Eng,,0,0,0,,Yeah, you could be bald and have a big nose
@@ -208,9 +209,9 @@ Dialogue: 1,0:04:16.31,0:04:17.35,标准-Chi,,0,0,0,,没关系的
 Dialogue: 0,0:04:16.31,0:04:17.35,标准-Eng,,0,0,0,,Come on, guys
 Dialogue: 1,0:04:17.35,0:04:20.22,标准-Chi,,0,0,0,,只要团结一致  我们一定会没事
 Dialogue: 0,0:04:17.35,0:04:20.22,标准-Eng,,0,0,0,,We're going to be fine as long as we stick together
-Dialogue: 1,0:04:20.22,0:04:21.94,标准-Chi,,0,0,0,,别忘了  我们是个俱乐部
+Dialogue: 1,0:04:20.22,0:04:21.94,标准-Chi,,0,0,0,,别忘了  我们同属一个俱乐部
 Dialogue: 0,0:04:20.22,0:04:21.94,标准-Eng,,0,0,0,,Remember, we're a club
-Dialogue: 1,0:04:24.61,0:04:27.30,标准-Chi,,0,0,0,,并且我们有这个
+Dialogue: 1,0:04:24.61,0:04:27.30,标准-Chi,,0,0,0,,并且我们还有这个
 Dialogue: 0,0:04:24.61,0:04:27.30,标准-Eng,,0,0,0,,And besides, we have this
 Dialogue: 1,0:04:27.76,0:04:28.78,标准-Chi,,0,0,0,,什么东西
 Dialogue: 0,0:04:27.76,0:04:28.78,标准-Eng,,0,0,0,,What's that?
@@ -269,7 +270,7 @@ Dialogue: 0,0:05:35.32,0:05:36.56,标准-Eng,,0,0,0,,come crying to me
 Dialogue: 0,0:05:36.56,0:05:39.56,标准-Eng,,0,0,0,,when your circus tent comes crashing down
 Dialogue: 1,0:05:39.95,0:05:40.97,标准-Chi,,0,0,0,,伤心小丑
 Dialogue: 0,0:05:39.95,0:05:40.97,标准-Eng,,0,0,0,,Sad clown
-Dialogue: 1,0:05:42.67,0:05:43.42,标准-Chi,,0,0,0,,伤心
+Dialogue: 1,0:05:42.67,0:05:43.42,标准-Chi,,0,0,0,,可悲
 Dialogue: 0,0:05:42.67,0:05:43.42,标准-Eng,,0,0,0,,Sad
 Dialogue: 1,0:05:44.49,0:05:45.05,标准-Chi,,0,0,0,,小丑
 Dialogue: 0,0:05:44.49,0:05:45.05,标准-Eng,,0,0,0,,clown
@@ -291,7 +292,7 @@ Dialogue: 1,0:06:19.33,0:06:22.30,标准-Chi,,0,0,0,,接招吧  海绵宝宝跟�
 Dialogue: 0,0:06:19.33,0:06:22.30,标准-Eng,,0,0,0,,Take that, Spongebob and Patrick
 Dialogue: 1,0:06:30.66,0:06:33.67,标准-Chi,,0,0,0,,完全离不开这个地方
 Dialogue: 0,0:06:30.66,0:06:33.67,标准-Eng,,0,0,0,,There's no way out of here
-Dialogue: 1,0:06:38.57,0:06:42.17,标准-Chi,,0,0,0,,你们神奇智慧海螺俱乐部情况如何
+Dialogue: 1,0:06:38.57,0:06:42.17,标准-Chi,,0,0,0,,你们神奇弱智海螺俱乐部情况如何
 Dialogue: 0,0:06:38.57,0:06:42.17,标准-Eng,,0,0,0,,How's it going over there at Club Shell for Brains?
 Dialogue: 1,0:06:43.80,0:06:45.07,标准-Chi,,0,0,0,,我饿了
 Dialogue: 0,0:06:43.80,0:06:45.07,标准-Eng,,0,0,0,,I am hungry
@@ -337,7 +338,7 @@ Dialogue: 1,0:07:54.22,0:07:57.10,标准-Chi,,0,0,0,,赞美魔法海螺
 Dialogue: 0,0:07:54.22,0:07:57.10,标准-Eng,,0,0,0,,Praise the magic conch
 Dialogue: 1,0:08:15.37,0:08:20.39,标准-Chi,,0,0,0,,海绵宝宝  你们那边的吃的还真多啊
 Dialogue: 0,0:08:15.37,0:08:20.39,标准-Eng,,0,0,0,,Hey, Spongebob, that sure is a lot of food you got there
-Dialogue: 1,0:08:20.39,0:08:22.65,标准-Chi,,0,0,0,,这是魔法海螺的赠礼
+Dialogue: 1,0:08:20.39,0:08:22.65,标准-Chi,,0,0,0,,这是魔法海螺的恩赐
 Dialogue: 0,0:08:20.39,0:08:22.65,标准-Eng,,0,0,0,,It's a gift from the magic conch
 Dialogue: 1,0:08:22.65,0:08:25.46,标准-Chi,,0,0,0,,所有东西看着都好好吃
 Dialogue: 0,0:08:22.65,0:08:25.46,标准-Eng,,0,0,0,,Everything sure looks delicious
@@ -349,7 +350,7 @@ Dialogue: 1,0:08:39.99,0:08:42.75,标准-Chi,,0,0,0,,你知道我先前都是在
 Dialogue: 0,0:08:39.99,0:08:42.75,标准-Eng,,0,0,0,,you know I was just kidding around earlier
 Dialogue: 1,0:08:43.79,0:08:46.37,标准-Chi,,0,0,0,,我是说  我还是俱乐部的一员吧
 Dialogue: 0,0:08:43.79,0:08:46.37,标准-Eng,,0,0,0,,I mean, I'm still part of the club, right?
-Dialogue: 1,0:08:46.74,0:08:50.53,标准-Chi,,0,0,0,,毕竟俱乐部要团结一致
+Dialogue: 1,0:08:46.74,0:08:50.53,标准-Chi,,0,0,0,,毕竟俱乐部成员要互帮互助
 Dialogue: 0,0:08:46.74,0:08:50.53,标准-Eng,,0,0,0,,And after all, the club got to stick together
 Dialogue: 1,0:08:50.89,0:08:51.67,标准-Chi,,0,0,0,,就是说
 Dialogue: 0,0:08:50.89,0:08:51.67,标准-Eng,,0,0,0,,I mean, you know
@@ -515,7 +516,7 @@ Dialogue: 1,0:12:09.24,0:12:12.15,标准-Chi,,0,0,0,,对换季天生敏感
 Dialogue: 0,0:12:09.24,0:12:12.15,标准-Eng,,0,0,0,,have an innate sense of the seasonal changes
 Dialogue: 1,0:12:12.90,0:12:14.43,标准-Chi,,0,0,0,,例如海星
 Dialogue: 0,0:12:12.90,0:12:14.43,标准-Eng,,0,0,0,,Like the starfish
-Dialogue: 1,0:12:15.45,0:12:17.64,标准-Chi,,0,0,0,,对四处的环境飞快地感知后
+Dialogue: 1,0:12:15.45,0:12:17.64,标准-Chi,,0,0,0,,迅速感知周边的环境后
 Dialogue: 0,0:12:15.45,0:12:17.64,标准-Eng,,0,0,0,,A quick survey of his environment
 Dialogue: 1,0:12:19.12,0:12:20.61,标准-Chi,,0,0,0,,便会发现
 Dialogue: 0,0:12:19.12,0:12:20.61,标准-Eng,,0,0,0,,and he knows that
@@ -539,7 +540,7 @@ Dialogue: 1,0:12:52.47,0:12:54.20,标准-Chi,,0,0,0,,你跟小花问好了没
 Dialogue: 0,0:12:52.47,0:12:54.20,标准-Eng,,0,0,0,,Did you say hello to the flowers yet?
 Dialogue: 1,0:12:55.55,0:12:57.62,标准-Chi,,0,0,0,,早安  小花
 Dialogue: 0,0:12:55.55,0:12:57.62,标准-Eng,,0,0,0,,Good morning, flowers
-Dialogue: 1,0:13:00.60,0:13:03.65,标准-Chi,,0,0,0,,我都不知道章鱼哥对花粉过敏
+Dialogue: 1,0:13:00.60,0:13:03.65,标准-Chi,,0,0,0,,没想到章鱼哥对花粉过敏
 Dialogue: 0,0:13:00.60,0:13:03.65,标准-Eng,,0,0,0,,Gosh, I didn't know Squidward had hay fever
 Dialogue: 1,0:13:03.65,0:13:04.89,标准-Chi,,0,0,0,,这就帮他
 Dialogue: 0,0:13:03.65,0:13:04.89,标准-Eng,,0,0,0,,I'll do him a kindness
@@ -547,7 +548,7 @@ Dialogue: 1,0:13:04.89,0:13:07.32,标准-Chi,,0,0,0,,种点不容易过敏的花
 Dialogue: 0,0:13:04.89,0:13:07.32,标准-Eng,,0,0,0,,and planet some hypoallergenic flowers
 Dialogue: 1,0:13:14.65,0:13:15.92,标准-Chi,,0,0,0,,茁壮成长吧
 Dialogue: 0,0:13:14.65,0:13:15.92,标准-Eng,,0,0,0,,You're on your way
-Dialogue: 1,0:13:16.35,0:13:17.62,标准-Chi,,0,0,0,,你一定渴了
+Dialogue: 1,0:13:16.35,0:13:17.62,标准-Chi,,0,0,0,,你一定渴了吧
 Dialogue: 0,0:13:16.35,0:13:17.62,标准-Eng,,0,0,0,,I bet you're thirsty
 Dialogue: 1,0:13:32.55,0:13:35.25,标准-Chi,,0,0,0,,我要一直盯着你不放
 Dialogue: 0,0:13:32.55,0:13:35.25,标准-Eng,,0,0,0,,I'm not taking my eyes off you
@@ -730,11 +731,11 @@ Dialogue: 1,0:18:50.73,0:18:51.94,标准-Chi,,0,0,0,,世上没有鬼
 Dialogue: 0,0:18:50.73,0:18:51.94,标准-Eng,,0,0,0,,there's no ghosts
 Dialogue: 1,0:18:53.25,0:18:55.27,标准-Chi,,0,0,0,,怕你忘了
 Dialogue: 0,0:18:53.25,0:18:55.27,标准-Eng,,0,0,0,,In case you've forgotten
-Dialogue: 1,0:18:55.27,0:18:56.56,标准-Chi,,0,0,0,,就告诉你工作流程
+Dialogue: 1,0:18:55.27,0:18:56.56,标准-Chi,,0,0,0,,再说一遍工作流程
 Dialogue: 0,0:18:55.27,0:18:56.56,标准-Eng,,0,0,0,,here's how things work
 Dialogue: 1,0:18:57.10,0:18:58.85,标准-Chi,,0,0,0,,我点餐
 Dialogue: 0,0:18:57.10,0:18:58.85,标准-Eng,,0,0,0,,I order the food
-Dialogue: 1,0:18:58.85,0:19:00.75,标准-Chi,,0,0,0,,你制作餐点
+Dialogue: 1,0:18:58.85,0:19:00.75,标准-Chi,,0,0,0,,你配餐
 Dialogue: 0,0:18:58.85,0:19:00.75,标准-Eng,,0,0,0,,You cook the food
 Dialogue: 1,0:19:00.75,0:19:03.12,标准-Chi,,0,0,0,,顾客取餐
 Dialogue: 0,0:19:00.75,0:19:03.12,标准-Eng,,0,0,0,,Then the customer gets the food
@@ -907,7 +908,7 @@ Dialogue: 1,0:22:48.43,0:22:49.80,标准-Chi,,0,0,0,,它现在自由了
 Dialogue: 0,0:22:48.43,0:22:49.80,标准-Eng,,0,0,0,,She's free now
 Dialogue: 1,0:22:49.80,0:22:51.07,标准-Chi,,0,0,0,,我们无权
 Dialogue: 0,0:22:49.80,0:22:51.07,标准-Eng,,0,0,0,,and we have no right
-Dialogue: 1,0:22:51.07,0:22:55.10,标准-Chi,,0,0,0,,把野生动物剥离自然栖息地
+Dialogue: 1,0:22:51.07,0:22:55.10,标准-Chi,,0,0,0,,把野生动物从自然栖息地带走
 Dialogue: 0,0:22:51.07,0:22:55.10,标准-Eng,,0,0,0,,to separate that wild animal from its natural habitat
 Dialogue: 1,0:22:55.10,0:22:56.39,标准-Chi,,0,0,0,,蟹老板
 Dialogue: 0,0:22:55.10,0:22:56.39,标准-Eng,,0,0,0,,Hey, Mr. Krabs

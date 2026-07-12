@@ -6,20 +6,20 @@ ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
-PlayResX: 1424
+PlayResX: 1440
 PlayResY: 1080
 Original Translation: 1440kHz
-Update Details: v2
+Update Details: v3
 
 [Aegisub Project Garbage]
-Audio File: S03E03 Just One Bite & The Bully .mkv
-Video File: S03E03 Just One Bite & The Bully .mkv
+Audio File: SpongeBob SquarePants_S03E03_The Bully_Just One Bite.mkv
+Video File: SpongeBob SquarePants_S03E03_The Bully_Just One Bite.mkv
 Video AR Mode: 4
-Video AR Value: 1.318519
+Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 393
-Active Line: 401
-Video Position: 30699
+Scroll Position: 447
+Active Line: 448
+Video Position: 14294
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -70,34 +70,34 @@ Dialogue: 0,0:01:00.41,0:01:02.08,画面内容,,0,0,0,,{\frz19.29\pos(329.802,31
 Dialogue: 0,0:01:00.41,0:01:02.08,画面内容,,0,0,0,,{\frz19.29\pos(505.802,654)}创意总监
 Dialogue: 0,0:01:00.41,0:01:02.08,画面内容,,0,0,0,,{\pos(1034.667,976.667)}本字幕仅限学习交流\N严禁用于商业用途
 Dialogue: 0,0:01:02.20,0:01:04.29,画面内容,,0,0,0,,{\pos(350,448)}蟹堡王
-Dialogue: 1,0:01:04.79,0:01:05.87,标准-Chi,,0,0,0,,给你  先生
-Dialogue: 0,0:01:04.79,0:01:05.87,标准-Eng,,0,0,0,,Here you go, sir
+Dialogue: 1,0:01:04.83,0:01:05.87,标准-Chi,,0,0,0,,给你  先生
+Dialogue: 0,0:01:04.83,0:01:05.87,标准-Eng,,0,0,0,,Here you go, sir
 Dialogue: 1,0:01:05.87,0:01:09.29,标准-Chi,,0,0,0,,加全套配料的巨无霸至尊蟹黄堡
 Dialogue: 0,0:01:05.87,0:01:09.29,标准-Eng,,0,0,0,,A King Size Ultra Krabby Supreme with the works
-Dialogue: 1,0:01:09.29,0:01:10.80,标准-Chi,,0,0,0,,双层面糊炸制
+Dialogue: 1,0:01:09.29,0:01:10.80,标准-Chi,,0,0,0,,裹面糊复炸
 Dialogue: 0,0:01:09.29,0:01:10.80,标准-Eng,,0,0,0,,double batter-fried
-Dialogue: 1,0:01:11.21,0:01:12.63,标准-Chi,,0,0,0,,串在棍上
-Dialogue: 0,0:01:11.21,0:01:12.63,标准-Eng,,0,0,0,,on a stick
-Dialogue: 1,0:01:12.63,0:01:13.51,标准-Chi,,0,0,0,,谢谢了
-Dialogue: 0,0:01:12.63,0:01:13.51,标准-Eng,,0,0,0,,Thanks
-Dialogue: 1,0:01:14.01,0:01:15.13,标准-Chi,,0,0,0,,傻子一个
-Dialogue: 0,0:01:14.01,0:01:15.13,标准-Eng,,0,0,0,,Barnacle head
+Dialogue: 1,0:01:11.42,0:01:12.71,标准-Chi,,0,0,0,,串在棍上
+Dialogue: 0,0:01:11.42,0:01:12.71,标准-Eng,,0,0,0,,on a stick
+Dialogue: 1,0:01:12.71,0:01:13.51,标准-Chi,,0,0,0,,谢谢了
+Dialogue: 0,0:01:12.71,0:01:13.51,标准-Eng,,0,0,0,,Thanks
+Dialogue: 1,0:01:14.13,0:01:15.13,标准-Chi,,0,0,0,,傻子一个
+Dialogue: 0,0:01:14.13,0:01:15.13,标准-Eng,,0,0,0,,Barnacle head
 Dialogue: 1,0:01:15.13,0:01:16.01,标准-Chi,,0,0,0,,你说什么
 Dialogue: 0,0:01:15.13,0:01:16.01,标准-Eng,,0,0,0,,Pardon me?
 Dialogue: 1,0:01:16.18,0:01:17.76,标准-Chi,,0,0,0,,你忘了拿蛋黄酱
 Dialogue: 0,0:01:16.18,0:01:17.76,标准-Eng,,0,0,0,,You forgot your mayonnaise
 Dialogue: 1,0:01:17.93,0:01:18.76,标准-Chi,,0,0,0,,谢谢了
 Dialogue: 0,0:01:17.93,0:01:18.76,标准-Eng,,0,0,0,,Thanks
-Dialogue: 1,0:01:21.85,0:01:24.31,标准-Chi,,0,0,0,,看看他们吃那些垃圾
-Dialogue: 0,0:01:21.85,0:01:24.31,标准-Eng,,0,0,0,,Look at them eating that garbage
+Dialogue: 1,0:01:21.85,0:01:24.52,标准-Chi,,0,0,0,,看看他们吃那些垃圾
+Dialogue: 0,0:01:21.85,0:01:24.52,标准-Eng,,0,0,0,,Look at them eating that garbage
 Dialogue: 1,0:01:25.14,0:01:26.73,标准-Chi,,0,0,0,,简直恶心
 Dialogue: 0,0:01:25.14,0:01:26.73,标准-Eng,,0,0,0,,It's disgusting
 Dialogue: 1,0:01:27.69,0:01:29.56,标准-Chi,,0,0,0,,让我都要吐了
 Dialogue: 0,0:01:27.69,0:01:29.56,标准-Eng,,0,0,0,,They're sickening
 Dialogue: 1,0:01:29.73,0:01:31.77,标准-Chi,,0,0,0,,我恨蟹黄堡
 Dialogue: 0,0:01:29.73,0:01:31.77,标准-Eng,,0,0,0,,I hate Krabby Patties
-Dialogue: 1,0:01:33.74,0:01:35.19,标准-Chi,,0,0,0,,真好笑  章鱼哥
-Dialogue: 0,0:01:33.74,0:01:35.19,标准-Eng,,0,0,0,,Good one, Squidward
+Dialogue: 1,0:01:33.90,0:01:35.19,标准-Chi,,0,0,0,,真好笑  章鱼哥
+Dialogue: 0,0:01:33.90,0:01:35.19,标准-Eng,,0,0,0,,Good one, Squidward
 Dialogue: 1,0:01:35.19,0:01:35.86,标准-Chi,,0,0,0,,好什么
 Dialogue: 0,0:01:35.19,0:01:35.86,标准-Eng,,0,0,0,,Good what?
 Dialogue: 1,0:01:35.86,0:01:37.36,标准-Chi,,0,0,0,,搞的好像你不知道似的
@@ -112,19 +112,19 @@ Dialogue: 1,0:01:41.24,0:01:43.58,标准-Chi,,0,0,0,,大家都爱蟹黄堡的
 Dialogue: 0,0:01:41.24,0:01:43.58,标准-Eng,,0,0,0,,Everyone loves Krabby Patties
 Dialogue: 1,0:01:43.58,0:01:45.12,标准-Chi,,0,0,0,,对  我不算大家
 Dialogue: 0,0:01:43.58,0:01:45.12,标准-Eng,,0,0,0,,Yeah, well, not me
-Dialogue: 1,0:01:46.54,0:01:48.08,标准-Chi,,0,0,0,,真会讲笑话
-Dialogue: 0,0:01:46.54,0:01:48.08,标准-Eng,,0,0,0,,You're good at that
+Dialogue: 1,0:01:46.62,0:01:48.08,标准-Chi,,0,0,0,,真会讲笑话
+Dialogue: 0,0:01:46.62,0:01:48.08,标准-Eng,,0,0,0,,You're good at that
 Dialogue: 1,0:01:48.08,0:01:49.21,标准-Chi,,0,0,0,,大家听我说
 Dialogue: 0,0:01:48.08,0:01:49.21,标准-Eng,,0,0,0,,Hey, everyone
-Dialogue: 1,0:01:49.21,0:01:52.50,标准-Chi,,0,0,0,,章鱼哥说他不喜欢蟹黄堡
-Dialogue: 0,0:01:49.21,0:01:52.50,标准-Eng,,0,0,0,,Squid says he doesn't like Krabby Patties
+Dialogue: 1,0:01:49.46,0:01:52.50,标准-Chi,,0,0,0,,章鱼哥说他不喜欢蟹黄堡
+Dialogue: 0,0:01:49.46,0:01:52.50,标准-Eng,,0,0,0,,Squid says he doesn't like Krabby Patties
 Dialogue: 1,0:01:54.59,0:01:55.67,标准-Chi,,0,0,0,,太好笑了  章鱼哥
 Dialogue: 0,0:01:54.59,0:01:55.67,标准-Eng,,0,0,0,,That's really good, Squidward
 Dialogue: 1,0:01:55.67,0:01:56.51,标准-Chi,,0,0,0,,笑死我了
 Dialogue: 0,0:01:55.67,0:01:56.51,标准-Eng,,0,0,0,,That's really funny
-Dialogue: 1,0:01:57.80,0:01:59.43,标准-Chi,,0,0,0,,不准怂恿他们
+Dialogue: 1,0:01:57.80,0:01:59.43,标准-Chi,,0,0,0,,别跟他们起哄
 Dialogue: 0,0:01:57.80,0:01:59.43,标准-Eng,,0,0,0,,Don't encourage them
-Dialogue: 1,0:01:59.43,0:02:00.39,标准-Chi,,0,0,0,,他们这样不会走
+Dialogue: 1,0:01:59.43,0:02:00.39,标准-Chi,,0,0,0,,他们会没完没了
 Dialogue: 0,0:01:59.43,0:02:00.39,标准-Eng,,0,0,0,,They'll never leave
 Dialogue: 1,0:02:00.39,0:02:01.60,标准-Chi,,0,0,0,,抱歉  章鱼哥
 Dialogue: 0,0:02:00.39,0:02:01.60,标准-Eng,,0,0,0,,Sorry, Squidward
@@ -134,37 +134,37 @@ Dialogue: 1,0:02:03.14,0:02:04.35,标准-Chi,,0,0,0,,要知道我们都说
 Dialogue: 0,0:02:03.14,0:02:04.35,标准-Eng,,0,0,0,,You know what we say
 Dialogue: 1,0:02:04.47,0:02:07.69,标准-Chi,,0,0,0,,唯一不喜欢蟹黄堡的那位
 Dialogue: 0,0:02:04.47,0:02:07.69,标准-Eng,,0,0,0,,The only people who don't like a Krabby Patty
-Dialogue: 1,0:02:07.69,0:02:09.90,标准-Chi,,0,0,0,,从来就没尝过蟹黄堡
-Dialogue: 0,0:02:07.69,0:02:09.90,标准-Eng,,0,0,0,,have never tasted one
-Dialogue: 1,0:02:10.73,0:02:11.56,标准-Chi,,0,0,0,,是我没错了
-Dialogue: 0,0:02:10.73,0:02:11.56,标准-Eng,,0,0,0,,That's me
-Dialogue: 1,0:02:11.65,0:02:12.90,标准-Chi,,0,0,0,,从来没吃过
-Dialogue: 0,0:02:11.65,0:02:12.90,标准-Eng,,0,0,0,,Never had one
-Dialogue: 1,0:02:13.02,0:02:13.90,标准-Chi,,0,0,0,,永远也不会吃
-Dialogue: 0,0:02:13.02,0:02:13.90,标准-Eng,,0,0,0,,never will
-Dialogue: 1,0:02:16.40,0:02:16.90,标准-Chi,,0,0,0,,什么
-Dialogue: 0,0:02:16.40,0:02:16.90,标准-Eng,,0,0,0,,What?
+Dialogue: 1,0:02:07.89,0:02:09.90,标准-Chi,,0,0,0,,从来就没尝过蟹黄堡
+Dialogue: 0,0:02:07.89,0:02:09.90,标准-Eng,,0,0,0,,have never tasted one
+Dialogue: 1,0:02:10.81,0:02:11.65,标准-Chi,,0,0,0,,是我没错了
+Dialogue: 0,0:02:10.81,0:02:11.65,标准-Eng,,0,0,0,,That's me
+Dialogue: 1,0:02:11.65,0:02:13.11,标准-Chi,,0,0,0,,从来没吃过
+Dialogue: 0,0:02:11.65,0:02:13.11,标准-Eng,,0,0,0,,Never had one
+Dialogue: 1,0:02:13.11,0:02:13.90,标准-Chi,,0,0,0,,永远也不会吃
+Dialogue: 0,0:02:13.11,0:02:13.90,标准-Eng,,0,0,0,,never will
+Dialogue: 1,0:02:16.40,0:02:17.03,标准-Chi,,0,0,0,,什么
+Dialogue: 0,0:02:16.40,0:02:17.03,标准-Eng,,0,0,0,,What?
 Dialogue: 1,0:02:17.03,0:02:17.90,标准-Chi,,0,0,0,,什么
 Dialogue: 0,0:02:17.03,0:02:17.90,标准-Eng,,0,0,0,,What?
 Dialogue: 1,0:02:17.90,0:02:18.78,标准-Chi,,0,0,0,,你刚说什么了
 Dialogue: 0,0:02:17.90,0:02:18.78,标准-Eng,,0,0,0,,What did you say?
-Dialogue: 1,0:02:18.78,0:02:21.20,标准-Chi,,0,0,0,,我从来没吃过蟹黄堡  永远也不会吃
-Dialogue: 0,0:02:18.78,0:02:21.20,标准-Eng,,0,0,0,,I've never had a Krabby Patty, and never will
+Dialogue: 1,0:02:18.78,0:02:21.28,标准-Chi,,0,0,0,,我从来没吃过蟹黄堡  永远也不会吃
+Dialogue: 0,0:02:18.78,0:02:21.28,标准-Eng,,0,0,0,,I've never had a Krabby Patty, and never will
 Dialogue: 1,0:02:21.28,0:02:21.95,标准-Chi,,0,0,0,,真对不起
 Dialogue: 0,0:02:21.28,0:02:21.95,标准-Eng,,0,0,0,,I'm sorry
 Dialogue: 1,0:02:21.95,0:02:22.58,标准-Chi,,0,0,0,,我觉得不
 Dialogue: 0,0:02:21.95,0:02:22.58,标准-Eng,,0,0,0,,I don't
 Dialogue: 1,0:02:22.58,0:02:24.91,标准-Chi,,0,0,0,,我从来没吃过蟹黄堡
 Dialogue: 0,0:02:22.58,0:02:24.91,标准-Eng,,0,0,0,,I've never had a Krabby Patty
-Dialogue: 1,0:02:25.62,0:02:26.70,标准-Chi,,0,0,0,,这些字
-Dialogue: 0,0:02:25.62,0:02:26.70,标准-Eng,,0,0,0,,Those words
-Dialogue: 1,0:02:26.79,0:02:29.46,标准-Chi,,0,0,0,,怎么可能会组成那样一句话呢
+Dialogue: 1,0:02:25.66,0:02:26.79,标准-Chi,,0,0,0,,这些字
+Dialogue: 0,0:02:25.66,0:02:26.79,标准-Eng,,0,0,0,,Those words
+Dialogue: 1,0:02:26.79,0:02:29.54,标准-Chi,,0,0,0,,怎么可能会组成那样一句话呢
 Dialogue: 0,0:02:26.79,0:02:27.91,标准-Eng,,0,0,0,,Is it possible to use them
-Dialogue: 0,0:02:27.91,0:02:29.46,标准-Eng,,0,0,0,,in a sentence together like that?
+Dialogue: 0,0:02:27.91,0:02:29.54,标准-Eng,,0,0,0,,in a sentence together like that?
 Dialogue: 1,0:02:29.54,0:02:33.38,标准-Chi,,0,0,0,,我从来没吃过蟹黄堡
 Dialogue: 0,0:02:29.54,0:02:33.38,标准-Eng,,0,0,0,,I've never had a Krabby Patty
-Dialogue: 1,0:02:33.38,0:02:35.00,标准-Chi,,0,0,0,,从来没吃过蟹黄堡
-Dialogue: 0,0:02:33.38,0:02:35.00,标准-Eng,,0,0,0,,Never had a Krabby Patty?
+Dialogue: 1,0:02:33.38,0:02:35.09,标准-Chi,,0,0,0,,从来没吃过蟹黄堡吗
+Dialogue: 0,0:02:33.38,0:02:35.09,标准-Eng,,0,0,0,,Never had a Krabby Patty?
 Dialogue: 1,0:02:35.09,0:02:36.88,标准-Chi,,0,0,0,,那你现在就得吃一个
 Dialogue: 0,0:02:35.09,0:02:36.88,标准-Eng,,0,0,0,,Well, you've gotta have one right now
 Dialogue: 1,0:02:36.88,0:02:38.97,标准-Chi,,0,0,0,,难怪你一直都很悲惨
@@ -173,16 +173,16 @@ Dialogue: 1,0:02:39.09,0:02:39.93,标准-Chi,,0,0,0,,给  尝一口
 Dialogue: 0,0:02:39.09,0:02:39.93,标准-Eng,,0,0,0,,Here, try this
 Dialogue: 1,0:02:39.93,0:02:41.43,标准-Chi,,0,0,0,,把那个垃圾给我拿开
 Dialogue: 0,0:02:39.93,0:02:41.43,标准-Eng,,0,0,0,,Get that garbage outta my face
-Dialogue: 1,0:02:42.68,0:02:44.81,标准-Chi,,0,0,0,,尝一下就会爱上的
-Dialogue: 0,0:02:42.68,0:02:44.81,标准-Eng,,0,0,0,,If you try it, you'll love it
-Dialogue: 1,0:02:44.81,0:02:48.39,标准-Chi,,0,0,0,,尝一口所谓食物的高辐射混球吗
+Dialogue: 1,0:02:42.89,0:02:44.81,标准-Chi,,0,0,0,,尝一下就会爱上的
+Dialogue: 0,0:02:42.89,0:02:44.81,标准-Eng,,0,0,0,,If you try it, you'll love it
+Dialogue: 1,0:02:44.81,0:02:48.39,标准-Chi,,0,0,0,,尝一口你称之为食物的高辐射混球吗
 Dialogue: 0,0:02:44.81,0:02:46.52,标准-Eng,,0,0,0,,Try one of those radioactive
 Dialogue: 0,0:02:46.52,0:02:48.39,标准-Eng,,0,0,0,,sludge balls you call food?
-Dialogue: 1,0:02:48.60,0:02:52.15,标准-Chi,,0,0,0,,然后你是不是要我跟派大星跳方块舞
-Dialogue: 0,0:02:48.60,0:02:50.14,标准-Eng,,0,0,0,,Next I suppose you'll want me to go
+Dialogue: 1,0:02:48.73,0:02:52.15,标准-Chi,,0,0,0,,然后你是不是要我跟派大星跳方块舞
+Dialogue: 0,0:02:48.73,0:02:50.14,标准-Eng,,0,0,0,,Next I suppose you'll want me to go
 Dialogue: 0,0:02:50.14,0:02:52.15,标准-Eng,,0,0,0,,square-dancing with Patrick
-Dialogue: 1,0:02:52.65,0:02:53.90,标准-Chi,,0,0,0,,抱歉  派大星
-Dialogue: 0,0:02:52.65,0:02:53.90,标准-Eng,,0,0,0,,Sorry, Patrick
+Dialogue: 1,0:02:52.86,0:02:54.11,标准-Chi,,0,0,0,,抱歉  派大星
+Dialogue: 0,0:02:52.86,0:02:54.11,标准-Eng,,0,0,0,,Sorry, Patrick
 Dialogue: 1,0:02:54.94,0:02:56.28,标准-Chi,,0,0,0,,吃嘛  你一定会
 Dialogue: 0,0:02:54.94,0:02:56.28,标准-Eng,,0,0,0,,Come on, you're gonna
 Dialogue: 1,0:02:56.28,0:02:56.82,标准-Chi,,0,0,0,,不吃
@@ -191,29 +191,29 @@ Dialogue: 1,0:02:57.19,0:02:59.61,标准-Chi,,0,0,0,,隧道快打通  火车要�
 Dialogue: 0,0:02:57.19,0:02:59.61,标准-Eng,,0,0,0,,Open up the tunnel, here comes the train
 Dialogue: 1,0:03:00.36,0:03:01.03,标准-Chi,,0,0,0,,不吃
 Dialogue: 0,0:03:00.36,0:03:01.03,标准-Eng,,0,0,0,,No
-Dialogue: 1,0:03:01.99,0:03:03.53,标准-Chi,,0,0,0,,你耳朵里面有什么
-Dialogue: 0,0:03:01.99,0:03:03.53,标准-Eng,,0,0,0,,What's that in your ear?
-Dialogue: 1,0:03:03.53,0:03:04.24,标准-Chi,,0,0,0,,别闹了
-Dialogue: 0,0:03:03.53,0:03:04.24,标准-Eng,,0,0,0,,Quit it
-Dialogue: 1,0:03:04.24,0:03:05.74,标准-Chi,,0,0,0,,快点  嘴巴张大
-Dialogue: 0,0:03:04.24,0:03:05.74,标准-Eng,,0,0,0,,Come on, open wide
-Dialogue: 1,0:03:05.74,0:03:09.12,标准-Chi,,0,0,0,,海绵宝宝  就算我被困到了井底
-Dialogue: 0,0:03:05.74,0:03:09.12,标准-Eng,,0,0,0,,SpongeBob, if I were trapped at the bottom of a well
+Dialogue: 1,0:03:01.99,0:03:03.66,标准-Chi,,0,0,0,,你耳朵里面有什么
+Dialogue: 0,0:03:01.99,0:03:03.66,标准-Eng,,0,0,0,,What's that in your ear?
+Dialogue: 1,0:03:03.66,0:03:04.24,标准-Chi,,0,0,0,,别闹了
+Dialogue: 0,0:03:03.66,0:03:04.24,标准-Eng,,0,0,0,,Quit it
+Dialogue: 1,0:03:04.24,0:03:05.83,标准-Chi,,0,0,0,,快点  嘴巴张大
+Dialogue: 0,0:03:04.24,0:03:05.83,标准-Eng,,0,0,0,,Come on, open wide
+Dialogue: 1,0:03:05.83,0:03:09.12,标准-Chi,,0,0,0,,海绵宝宝  就算我被困到了井底
+Dialogue: 0,0:03:05.83,0:03:09.12,标准-Eng,,0,0,0,,SpongeBob, if I were trapped at the bottom of a well
 Dialogue: 1,0:03:09.12,0:03:10.25,标准-Chi,,0,0,0,,困个三年
 Dialogue: 0,0:03:09.12,0:03:10.25,标准-Eng,,0,0,0,,for three years
 Dialogue: 1,0:03:10.25,0:03:12.33,标准-Chi,,0,0,0,,只有这个蟹黄堡能吃
 Dialogue: 0,0:03:10.25,0:03:12.33,标准-Eng,,0,0,0,,with nothing to eat but that Krabby Patty
 Dialogue: 1,0:03:12.33,0:03:14.42,标准-Chi,,0,0,0,,老子也要先吃我的腿
 Dialogue: 0,0:03:12.33,0:03:14.42,标准-Eng,,0,0,0,,I'd eat my own legs first
-Dialogue: 1,0:03:15.50,0:03:16.96,标准-Chi,,0,0,0,,就算多长几条腿也不吃
-Dialogue: 0,0:03:15.50,0:03:16.96,标准-Eng,,0,0,0,,And not just the extra ones
-Dialogue: 1,0:03:16.96,0:03:18.34,标准-Chi,,0,0,0,,可这个对你有益
-Dialogue: 0,0:03:16.96,0:03:18.34,标准-Eng,,0,0,0,,But it's good for you
+Dialogue: 1,0:03:15.71,0:03:16.96,标准-Chi,,0,0,0,,用来走路的腿也吃
+Dialogue: 0,0:03:15.71,0:03:16.96,标准-Eng,,0,0,0,,And not just the extra ones
+Dialogue: 1,0:03:17.26,0:03:18.34,标准-Chi,,0,0,0,,可这个对你有益
+Dialogue: 0,0:03:17.26,0:03:18.34,标准-Eng,,0,0,0,,But it's good for you
 Dialogue: 1,0:03:18.71,0:03:19.47,标准-Chi,,0,0,0,,这叫有益
 Dialogue: 0,0:03:18.71,0:03:19.47,标准-Eng,,0,0,0,,Good for you?
-Dialogue: 1,0:03:19.59,0:03:21.84,标准-Chi,,0,0,0,,那汉堡就是个热量炸弹
-Dialogue: 0,0:03:19.59,0:03:21.84,标准-Eng,,0,0,0,,That thing is a heart attack on a bun
-Dialogue: 1,0:03:21.97,0:03:22.93,标准-Chi,,0,0,0,,不是那意思  章鱼哥
+Dialogue: 1,0:03:19.59,0:03:21.97,标准-Chi,,0,0,0,,那汉堡就是个热量炸弹
+Dialogue: 0,0:03:19.59,0:03:21.97,标准-Eng,,0,0,0,,That thing is a heart attack on a bun
+Dialogue: 1,0:03:21.97,0:03:22.93,标准-Chi,,0,0,0,,不对  章鱼哥
 Dialogue: 0,0:03:21.97,0:03:22.93,标准-Eng,,0,0,0,,No, Squidward
 Dialogue: 1,0:03:22.93,0:03:23.59,标准-Chi,,0,0,0,,我意思是
 Dialogue: 0,0:03:22.93,0:03:23.59,标准-Eng,,0,0,0,,I meant
@@ -221,8 +221,8 @@ Dialogue: 1,0:03:24.14,0:03:25.68,标准-Chi,,0,0,0,,对你的灵魂有益
 Dialogue: 0,0:03:24.14,0:03:25.68,标准-Eng,,0,0,0,,good for your soul
 Dialogue: 1,0:03:28.14,0:03:29.35,标准-Chi,,0,0,0,,得了吧你
 Dialogue: 0,0:03:28.14,0:03:29.35,标准-Eng,,0,0,0,,Puh-leez
-Dialogue: 1,0:03:29.35,0:03:30.64,标准-Chi,,0,0,0,,我根本没灵魂
-Dialogue: 0,0:03:29.35,0:03:30.64,标准-Eng,,0,0,0,,I have no soul
+Dialogue: 1,0:03:29.35,0:03:30.85,标准-Chi,,0,0,0,,我根本没灵魂
+Dialogue: 0,0:03:29.35,0:03:30.85,标准-Eng,,0,0,0,,I have no soul
 Dialogue: 1,0:03:35.11,0:03:36.52,标准-Chi,,0,0,0,,那好吧  就吃一半
 Dialogue: 0,0:03:35.11,0:03:36.52,标准-Eng,,0,0,0,,Okay, just half
 Dialogue: 1,0:03:36.52,0:03:37.23,标准-Chi,,0,0,0,,不吃
@@ -239,14 +239,14 @@ Dialogue: 1,0:03:41.57,0:03:42.53,标准-Chi,,0,0,0,,闻一闻就行
 Dialogue: 0,0:03:41.57,0:03:42.53,标准-Eng,,0,0,0,,Just smell it
 Dialogue: 1,0:03:42.66,0:03:44.28,标准-Chi,,0,0,0,,我在外面都不想要这玩意
 Dialogue: 0,0:03:42.66,0:03:44.28,标准-Eng,,0,0,0,,If I didn't want it out there
-Dialogue: 1,0:03:44.41,0:03:48.04,标准-Chi,,0,0,0,,怎么会在这厕所里对这玩意感兴趣
+Dialogue: 1,0:03:44.41,0:03:48.04,标准-Chi,,0,0,0,,怎么会在这厕所里对这玩意来食欲
 Dialogue: 0,0:03:44.41,0:03:48.04,标准-Eng,,0,0,0,,what makes you think I'd find it more appealing in here?
 Dialogue: 1,0:03:48.95,0:03:50.29,标准-Chi,,0,0,0,,拜托嘛  章鱼哥
 Dialogue: 0,0:03:48.95,0:03:50.29,标准-Eng,,0,0,0,,Come on, Squidward
 Dialogue: 1,0:03:50.66,0:03:51.29,标准-Chi,,0,0,0,,不吃
 Dialogue: 0,0:03:50.66,0:03:51.29,标准-Eng,,0,0,0,,No
-Dialogue: 1,0:03:53.75,0:03:54.67,标准-Chi,,0,0,0,,吃一口
-Dialogue: 0,0:03:53.75,0:03:54.67,标准-Eng,,0,0,0,,One bite
+Dialogue: 1,0:03:53.79,0:03:54.67,标准-Chi,,0,0,0,,吃一口
+Dialogue: 0,0:03:53.79,0:03:54.67,标准-Eng,,0,0,0,,One bite
 Dialogue: 1,0:03:54.67,0:03:55.33,标准-Chi,,0,0,0,,不吃
 Dialogue: 0,0:03:54.67,0:03:55.33,标准-Eng,,0,0,0,,No
 Dialogue: 1,0:03:56.46,0:03:58.25,标准-Chi,,0,0,0,,你绝对不会后悔的
@@ -259,20 +259,20 @@ Dialogue: 1,0:04:01.55,0:04:02.55,标准-Chi,,0,0,0,,听好了  海绵宝宝
 Dialogue: 0,0:04:01.55,0:04:02.55,标准-Eng,,0,0,0,,Listen, SpongeBob
 Dialogue: 1,0:04:02.55,0:04:04.22,标准-Chi,,0,0,0,,你打算要这样下去多久
 Dialogue: 0,0:04:02.55,0:04:04.22,标准-Eng,,0,0,0,,how long are you prepared to keep this up?
-Dialogue: 1,0:04:07.97,0:04:08.93,标准-Chi,,0,0,0,,给我
-Dialogue: 0,0:04:07.97,0:04:08.93,标准-Eng,,0,0,0,,Give me that
-Dialogue: 1,0:04:09.52,0:04:10.35,标准-Chi,,0,0,0,,等我死了
-Dialogue: 0,0:04:09.52,0:04:10.35,标准-Eng,,0,0,0,,When I die
-Dialogue: 1,0:04:10.48,0:04:11.98,标准-Chi,,0,0,0,,别来玷污我的葬礼
-Dialogue: 0,0:04:10.48,0:04:11.98,标准-Eng,,0,0,0,,you stay away from my funeral
+Dialogue: 1,0:04:08.14,0:04:08.93,标准-Chi,,0,0,0,,给我
+Dialogue: 0,0:04:08.14,0:04:08.93,标准-Eng,,0,0,0,,Give me that
+Dialogue: 1,0:04:09.52,0:04:10.52,标准-Chi,,0,0,0,,等我死了
+Dialogue: 0,0:04:09.52,0:04:10.52,标准-Eng,,0,0,0,,When I die
+Dialogue: 1,0:04:10.52,0:04:11.98,标准-Chi,,0,0,0,,别来玷污我的葬礼
+Dialogue: 0,0:04:10.52,0:04:11.98,标准-Eng,,0,0,0,,you stay away from my funeral
 Dialogue: 1,0:04:16.02,0:04:17.61,标准-Chi,,0,0,0,,难道我真的
 Dialogue: 0,0:04:16.02,0:04:17.61,标准-Eng,,0,0,0,,Do I really
 Dialogue: 1,0:04:38.13,0:04:38.67,标准-Chi,,0,0,0,,啊
 Dialogue: 0,0:04:38.13,0:04:38.67,标准-Eng,,0,0,0,,Why
 Dialogue: 1,0:04:39.00,0:04:42.38,标准-Chi,,0,0,0,,这个蟹黄堡可能就是最
 Dialogue: 0,0:04:39.00,0:04:42.38,标准-Eng,,0,0,0,,this Krabby Patty may be the most
-Dialogue: 1,0:04:42.84,0:04:44.05,标准-Chi,,0,0,0,,垃圾
-Dialogue: 0,0:04:42.84,0:04:44.05,标准-Eng,,0,0,0,,Horrible
+Dialogue: 1,0:04:42.97,0:04:44.05,标准-Chi,,0,0,0,,垃圾
+Dialogue: 0,0:04:42.97,0:04:44.05,标准-Eng,,0,0,0,,Horrible
 Dialogue: 1,0:04:44.05,0:04:45.01,标准-Chi,,0,0,0,,恶心
 Dialogue: 0,0:04:44.05,0:04:45.01,标准-Eng,,0,0,0,,Putrid
 Dialogue: 1,0:04:45.13,0:04:46.34,标准-Chi,,0,0,0,,做工粗劣
@@ -294,20 +294,21 @@ Dialogue: 1,0:04:59.19,0:05:00.94,标准-Chi,,0,0,0,,还有所有喜欢蟹黄堡
 Dialogue: 0,0:04:59.19,0:05:00.94,标准-Eng,,0,0,0,,and all who enjoy them
 Dialogue: 1,0:05:00.94,0:05:05.03,标准-Chi,,0,0,0,,趁早踏进他们应得的坟里去
 Dialogue: 0,0:05:00.94,0:05:05.03,标准-Eng,,0,0,0,,to an early and well-deserved grave
-Dialogue: 1,0:05:06.99,0:05:07.66,标准-Chi,,0,0,0,,懂我意思
-Dialogue: 0,0:05:06.99,0:05:07.66,标准-Eng,,0,0,0,,Get it?
-Dialogue: 1,0:05:07.74,0:05:09.45,标准-Chi,,0,0,0,,可是根本没道理啊
-Dialogue: 0,0:05:07.74,0:05:09.45,标准-Eng,,0,0,0,,But it doesn't make any sense
-Dialogue: 1,0:05:09.53,0:05:12.29,标准-Chi,,0,0,0,,蟹黄堡绝对质量上乘
-Dialogue: 0,0:05:09.53,0:05:12.29,标准-Eng,,0,0,0,,The Krabby Patty is an absolute good
-Dialogue: 1,0:05:12.29,0:05:14.71,标准-Chi,,0,0,0,,大家都无法抗拒它美味的魅力
-Dialogue: 0,0:05:12.29,0:05:14.71,标准-Eng,,0,0,0,,Nobody is immune to its tasty charms
-Dialogue: 1,0:05:14.71,0:05:16.12,标准-Chi,,0,0,0,,我不算大家
-Dialogue: 0,0:05:14.71,0:05:16.12,标准-Eng,,0,0,0,,Nobody but me
-Dialogue: 1,0:05:16.12,0:05:17.17,标准-Chi,,0,0,0,,你确定吗
-Dialogue: 0,0:05:16.12,0:05:17.17,标准-Eng,,0,0,0,,Are you sure?
-Dialogue: 1,0:05:17.17,0:05:19.84,标准-Chi,,0,0,0,,这样看起来还不确定吗
-Dialogue: 0,0:05:17.17,0:05:19.84,标准-Eng,,0,0,0,,Does this look unsure to you?
+Dialogue: 0,0:05:05.61,0:05:06.74,画面内容,,0,0,0,,{\pos(934,872)}安息
+Dialogue: 1,0:05:07.07,0:05:07.74,标准-Chi,,0,0,0,,懂吗
+Dialogue: 0,0:05:07.07,0:05:07.74,标准-Eng,,0,0,0,,Get it?
+Dialogue: 1,0:05:07.74,0:05:09.66,标准-Chi,,0,0,0,,可是根本没道理啊
+Dialogue: 0,0:05:07.74,0:05:09.66,标准-Eng,,0,0,0,,But it doesn't make any sense
+Dialogue: 1,0:05:09.66,0:05:12.29,标准-Chi,,0,0,0,,蟹黄堡绝对是美味
+Dialogue: 0,0:05:09.66,0:05:12.29,标准-Eng,,0,0,0,,The Krabby Patty is an absolute good
+Dialogue: 1,0:05:12.29,0:05:14.75,标准-Chi,,0,0,0,,大家都无法抗拒它美味的魅力
+Dialogue: 0,0:05:12.29,0:05:14.75,标准-Eng,,0,0,0,,Nobody is immune to its tasty charms
+Dialogue: 1,0:05:14.75,0:05:16.12,标准-Chi,,0,0,0,,我不算大家
+Dialogue: 0,0:05:14.75,0:05:16.12,标准-Eng,,0,0,0,,Nobody but me
+Dialogue: 1,0:05:16.12,0:05:17.12,标准-Chi,,0,0,0,,你确定吗
+Dialogue: 0,0:05:16.12,0:05:17.12,标准-Eng,,0,0,0,,Are you sure?
+Dialogue: 1,0:05:17.29,0:05:19.84,标准-Chi,,0,0,0,,这样看起来还不确定吗
+Dialogue: 0,0:05:17.29,0:05:19.84,标准-Eng,,0,0,0,,Does this look unsure to you?
 Dialogue: 1,0:05:21.59,0:05:22.26,标准-Chi,,0,0,0,,确定了
 Dialogue: 0,0:05:21.59,0:05:22.26,标准-Eng,,0,0,0,,No
 Dialogue: 1,0:05:22.26,0:05:22.84,标准-Chi,,0,0,0,,很好
@@ -328,24 +329,24 @@ Dialogue: 1,0:05:54.00,0:05:55.37,标准-Chi,,0,0,0,,我得再吃点
 Dialogue: 0,0:05:54.00,0:05:55.37,标准-Eng,,0,0,0,,I got to have more
 Dialogue: 1,0:05:58.54,0:05:59.42,标准-Chi,,0,0,0,,可是等下
 Dialogue: 0,0:05:58.54,0:05:59.42,标准-Eng,,0,0,0,,But wait
-Dialogue: 1,0:06:01.00,0:06:03.88,标准-Chi,,0,0,0,,刚给他演那出  他肯定不会放过我
-Dialogue: 0,0:06:01.00,0:06:03.88,标准-Eng,,0,0,0,,After that performance, he'd never let me live it down
+Dialogue: 1,0:06:01.17,0:06:03.88,标准-Chi,,0,0,0,,刚给他演那出  他肯定不会放过我
+Dialogue: 0,0:06:01.17,0:06:03.88,标准-Eng,,0,0,0,,After that performance, he'd never let me live it down
 Dialogue: 1,0:06:04.09,0:06:05.34,标准-Chi,,0,0,0,,我得溜进去偷
 Dialogue: 0,0:06:04.09,0:06:05.34,标准-Eng,,0,0,0,,I gotta sneak one
 Dialogue: 1,0:06:05.51,0:06:06.26,标准-Chi,,0,0,0,,就偷一个
 Dialogue: 0,0:06:05.51,0:06:06.26,标准-Eng,,0,0,0,,just one
 Dialogue: 1,0:06:06.42,0:06:08.80,标准-Chi,,0,0,0,,然后我就彻底戒掉那玩意
 Dialogue: 0,0:06:06.42,0:06:08.80,标准-Eng,,0,0,0,,then I'm off the stuff for good
-Dialogue: 1,0:06:08.88,0:06:10.55,标准-Chi,,0,0,0,,应该不可能啊
-Dialogue: 0,0:06:08.88,0:06:10.55,标准-Eng,,0,0,0,,I didn't think it was possible
-Dialogue: 1,0:06:10.55,0:06:13.68,标准-Chi,,0,0,0,,可能是真的有人不喜欢蟹黄堡吧
-Dialogue: 0,0:06:10.55,0:06:13.68,标准-Eng,,0,0,0,,but I guess some people just don't like Krabby Patties
+Dialogue: 1,0:06:08.80,0:06:10.72,标准-Chi,,0,0,0,,应该不可能啊
+Dialogue: 0,0:06:08.80,0:06:10.72,标准-Eng,,0,0,0,,I didn't think it was possible
+Dialogue: 1,0:06:10.72,0:06:13.76,标准-Chi,,0,0,0,,可能是真的有人不喜欢蟹黄堡吧
+Dialogue: 0,0:06:10.72,0:06:13.76,标准-Eng,,0,0,0,,but I guess some people just don't like Krabby Patties
 Dialogue: 1,0:06:21.73,0:06:22.73,标准-Chi,,0,0,0,,海绵宝宝
 Dialogue: 0,0:06:21.73,0:06:22.73,标准-Eng,,0,0,0,,SpongeBob?
 Dialogue: 1,0:06:22.90,0:06:23.69,标准-Chi,,0,0,0,,什么事  章鱼哥
 Dialogue: 0,0:06:22.90,0:06:23.69,标准-Eng,,0,0,0,,Yes, Squidward?
-Dialogue: 1,0:06:23.77,0:06:27.45,标准-Chi,,0,0,0,,来三层蟹黄堡巨无霸  上加海草面包
-Dialogue: 0,0:06:23.77,0:06:27.45,标准-Eng,,0,0,0,,I need a Triple Krabby Supreme on a kelp bun
+Dialogue: 1,0:06:23.69,0:06:27.45,标准-Chi,,0,0,0,,来份三层蟹黄堡巨无霸  配海草面包
+Dialogue: 0,0:06:23.69,0:06:27.45,标准-Eng,,0,0,0,,I need a Triple Krabby Supreme on a kelp bun
 Dialogue: 1,0:06:27.65,0:06:29.57,标准-Chi,,0,0,0,,再多加海腌椰菜然后
 Dialogue: 0,0:06:27.65,0:06:29.57,标准-Eng,,0,0,0,,with extra sea pickle and
 Dialogue: 1,0:06:30.24,0:06:31.99,标准-Chi,,0,0,0,,然后烤焦  行不行
@@ -360,8 +361,8 @@ Dialogue: 1,0:06:37.00,0:06:38.79,标准-Chi,,0,0,0,,我只是想让你高兴
 Dialogue: 0,0:06:37.00,0:06:38.79,标准-Eng,,0,0,0,,I was only trying to make you happy
 Dialogue: 1,0:06:44.00,0:06:45.09,标准-Chi,,0,0,0,,但现在我明白了
 Dialogue: 0,0:06:44.00,0:06:45.09,标准-Eng,,0,0,0,,But now I've learned
-Dialogue: 1,0:06:45.09,0:06:46.83,标准-Chi,,0,0,0,,各类人都需要得到包容
-Dialogue: 0,0:06:45.09,0:06:46.83,标准-Eng,,0,0,0,,there's room for all kinds of people
+Dialogue: 1,0:06:45.09,0:06:47.01,标准-Chi,,0,0,0,,各类人都需要得到包容
+Dialogue: 0,0:06:45.09,0:06:47.01,标准-Eng,,0,0,0,,there's room for all kinds of people
 Dialogue: 1,0:06:49.01,0:06:51.44,标准-Chi,,0,0,0,,不必强求他们都喜欢一样的东西
 Dialogue: 0,0:06:49.01,0:06:51.44,标准-Eng,,0,0,0,,and they don't all have to like the same things
 Dialogue: 1,0:06:54.97,0:06:56.22,标准-Chi,,0,0,0,,不要消失啊
@@ -377,20 +378,20 @@ Dialogue: 0,0:07:02.77,0:07:04.57,标准-Eng,,0,0,0,,I want to see the look on t
 Dialogue: 0,0:07:04.57,0:07:06.23,标准-Eng,,0,0,0,,when they take that first bite
 Dialogue: 1,0:07:08.19,0:07:09.90,标准-Chi,,0,0,0,,三层蟹黄堡巨无霸
 Dialogue: 0,0:07:08.19,0:07:09.90,标准-Eng,,0,0,0,,Triple Krabby Supreme
-Dialogue: 1,0:07:10.07,0:07:11.78,标准-Chi,,0,0,0,,三层蟹黄堡巨无霸
-Dialogue: 0,0:07:10.07,0:07:11.78,标准-Eng,,0,0,0,,Triple Krabby Supreme
-Dialogue: 1,0:07:12.07,0:07:14.70,标准-Chi,,0,0,0,,有谁点了三层蟹黄堡巨无霸吗
-Dialogue: 0,0:07:12.07,0:07:14.70,标准-Eng,,0,0,0,,Did somebody order a Triple Krabby Supreme?
-Dialogue: 1,0:07:15.41,0:07:16.37,标准-Chi,,0,0,0,,肯定是走了
-Dialogue: 0,0:07:15.41,0:07:16.37,标准-Eng,,0,0,0,,They must have left
-Dialogue: 1,0:07:16.49,0:07:18.37,标准-Chi,,0,0,0,,那个  要不你就
-Dialogue: 0,0:07:16.49,0:07:18.37,标准-Eng,,0,0,0,,Well, uh, why don't you just uh
-Dialogue: 1,0:07:18.37,0:07:21.04,标准-Chi,,0,0,0,,把它放在这  人家可能会回来
-Dialogue: 0,0:07:18.37,0:07:21.04,标准-Eng,,0,0,0,,leave it out here in case they come back
+Dialogue: 1,0:07:10.28,0:07:11.78,标准-Chi,,0,0,0,,三层蟹黄堡巨无霸
+Dialogue: 0,0:07:10.28,0:07:11.78,标准-Eng,,0,0,0,,Triple Krabby Supreme
+Dialogue: 1,0:07:12.24,0:07:14.70,标准-Chi,,0,0,0,,有谁点了三层蟹黄堡巨无霸吗
+Dialogue: 0,0:07:12.24,0:07:14.70,标准-Eng,,0,0,0,,Did somebody order a Triple Krabby Supreme?
+Dialogue: 1,0:07:15.41,0:07:16.45,标准-Chi,,0,0,0,,肯定是走了
+Dialogue: 0,0:07:15.41,0:07:16.45,标准-Eng,,0,0,0,,They must have left
+Dialogue: 1,0:07:16.45,0:07:18.37,标准-Chi,,0,0,0,,那个  要不你就
+Dialogue: 0,0:07:16.45,0:07:18.37,标准-Eng,,0,0,0,,Well, uh, why don't you just uh
+Dialogue: 1,0:07:18.37,0:07:21.12,标准-Chi,,0,0,0,,把它放在这  人家可能会回来
+Dialogue: 0,0:07:18.37,0:07:21.12,标准-Eng,,0,0,0,,leave it out here in case they come back
 Dialogue: 1,0:07:21.12,0:07:21.79,标准-Chi,,0,0,0,,不行
 Dialogue: 0,0:07:21.12,0:07:21.79,标准-Eng,,0,0,0,,Nope
-Dialogue: 1,0:07:21.87,0:07:24.59,标准-Chi,,0,0,0,,这样特别的蟹黄堡得趁新鲜吃  而且
-Dialogue: 0,0:07:21.87,0:07:24.59,标准-Eng,,0,0,0,,a patty this special should be eaten fresh and
+Dialogue: 1,0:07:21.92,0:07:24.59,标准-Chi,,0,0,0,,这样特别的蟹黄堡得趁新鲜吃  而且
+Dialogue: 0,0:07:21.92,0:07:24.59,标准-Eng,,0,0,0,,a patty this special should be eaten fresh and
 Dialogue: 1,0:07:25.04,0:07:28.05,标准-Chi,,0,0,0,,我有二十多分钟没吃这宝贝了
 Dialogue: 0,0:07:25.04,0:07:26.96,标准-Eng,,0,0,0,,well, I haven't had one of these babies
 Dialogue: 0,0:07:26.96,0:07:28.05,标准-Eng,,0,0,0,,in over 20 minutes
@@ -400,10 +401,10 @@ Dialogue: 1,0:07:31.63,0:07:33.26,标准-Chi,,0,0,0,,不论点餐的是谁
 Dialogue: 0,0:07:31.63,0:07:33.26,标准-Eng,,0,0,0,,Well, whoever they were
 Dialogue: 1,0:07:33.26,0:07:34.93,标准-Chi,,0,0,0,,品味都不错
 Dialogue: 0,0:07:33.26,0:07:34.93,标准-Eng,,0,0,0,,they had great taste
-Dialogue: 1,0:07:42.35,0:07:44.19,标准-Chi,,0,0,0,,那位都不知道错过什么了
-Dialogue: 0,0:07:42.35,0:07:44.19,标准-Eng,,0,0,0,,They don't know what they're missing
-Dialogue: 1,0:07:44.19,0:07:44.98,标准-Chi,,0,0,0,,回去工作吧
-Dialogue: 0,0:07:44.19,0:07:44.98,标准-Eng,,0,0,0,,Well, back to work
+Dialogue: 1,0:07:42.35,0:07:43.85,标准-Chi,,0,0,0,,那位都不知道错过什么了
+Dialogue: 0,0:07:42.35,0:07:43.85,标准-Eng,,0,0,0,,They don't know what they're missing
+Dialogue: 1,0:07:44.02,0:07:44.98,标准-Chi,,0,0,0,,回去工作吧
+Dialogue: 0,0:07:44.02,0:07:44.98,标准-Eng,,0,0,0,,Well, back to work
 Dialogue: 1,0:07:46.02,0:07:47.69,标准-Chi,,0,0,0,,我得怎么办
 Dialogue: 0,0:07:46.02,0:07:47.69,标准-Eng,,0,0,0,,What do I have to do?
 Dialogue: 1,0:07:47.69,0:07:49.65,标准-Chi,,0,0,0,,难道要从垃圾堆里翻一个来吃吗
@@ -412,18 +413,18 @@ Dialogue: 1,0:07:49.65,0:07:51.24,标准-Chi,,0,0,0,,真希望我能吃下这个
 Dialogue: 0,0:07:49.65,0:07:51.24,标准-Eng,,0,0,0,,I wish I could eat this
 Dialogue: 1,0:07:51.24,0:07:53.16,标准-Chi,,0,0,0,,可我都要撑死了
 Dialogue: 0,0:07:51.24,0:07:53.16,标准-Eng,,0,0,0,,but I'm so darn full
-Dialogue: 1,0:07:53.66,0:07:54.49,标准-Chi,,0,0,0,,那好吧
+Dialogue: 1,0:07:53.66,0:07:54.49,标准-Chi,,0,0,0,,算了
 Dialogue: 0,0:07:53.66,0:07:54.49,标准-Eng,,0,0,0,,Oh well
 Dialogue: 1,0:07:56.53,0:07:57.95,标准-Chi,,0,0,0,,真就垃圾了
 Dialogue: 0,0:07:56.53,0:07:57.95,标准-Eng,,0,0,0,,I had to say garbage
-Dialogue: 1,0:07:58.08,0:07:58.99,标准-Chi,,0,0,0,,天赐良机啊
+Dialogue: 1,0:07:58.08,0:07:58.99,标准-Chi,,0,0,0,,反正也行
 Dialogue: 0,0:07:58.08,0:07:58.99,标准-Eng,,0,0,0,,but okay
-Dialogue: 1,0:08:12.22,0:08:14.76,标准-Chi,,0,0,0,,不会吧  怎么会这样
-Dialogue: 0,0:08:12.22,0:08:14.76,标准-Eng,,0,0,0,,Oh no, what's this doing here?
+Dialogue: 1,0:08:12.46,0:08:14.76,标准-Chi,,0,0,0,,不会吧  它怎么跑这来了
+Dialogue: 0,0:08:12.46,0:08:14.76,标准-Eng,,0,0,0,,Oh no, what's this doing here?
 Dialogue: 1,0:08:14.76,0:08:16.72,标准-Chi,,0,0,0,,这个蟹黄堡应该要被火化掉的
 Dialogue: 0,0:08:14.76,0:08:16.72,标准-Eng,,0,0,0,,This patty should be cremated
-Dialogue: 1,0:08:22.35,0:08:23.85,标准-Chi,,0,0,0,,虽然我知道你不喜欢它
-Dialogue: 0,0:08:22.35,0:08:23.85,标准-Eng,,0,0,0,,I know you didn't like him
+Dialogue: 1,0:08:22.48,0:08:23.85,标准-Chi,,0,0,0,,虽然我知道你不喜欢它
+Dialogue: 0,0:08:22.48,0:08:23.85,标准-Eng,,0,0,0,,I know you didn't like him
 Dialogue: 1,0:08:23.85,0:08:26.31,标准-Chi,,0,0,0,,但你能来参加葬礼  意义十分重大
 Dialogue: 0,0:08:23.85,0:08:26.31,标准-Eng,,0,0,0,,but it means so much that you came
 Dialogue: 1,0:08:52.67,0:08:54.09,标准-Chi,,0,0,0,,老婆
@@ -432,8 +433,8 @@ Dialogue: 1,0:08:56.84,0:08:59.72,标准-Chi,,0,0,0,,我必须要把蟹黄堡弄
 Dialogue: 0,0:08:56.84,0:08:59.72,标准-Eng,,0,0,0,,I have got to get my hands on a Krabby Patty
 Dialogue: 1,0:08:59.72,0:09:01.81,标准-Chi,,0,0,0,,谁都拦不住我
 Dialogue: 0,0:08:59.72,0:09:01.81,标准-Eng,,0,0,0,,And no one's going to stop me
-Dialogue: 1,0:09:08.94,0:09:10.11,标准-Chi,,0,0,0,,就在那
-Dialogue: 0,0:09:08.94,0:09:10.11,标准-Eng,,0,0,0,,There it is
+Dialogue: 1,0:09:08.98,0:09:10.11,标准-Chi,,0,0,0,,就在那
+Dialogue: 0,0:09:08.98,0:09:10.11,标准-Eng,,0,0,0,,There it is
 Dialogue: 0,0:09:12.99,0:09:14.45,画面内容,,0,0,0,,{\pos(792,330)}蟹黄堡保险库
 Dialogue: 1,0:09:18.70,0:09:20.16,标准-Chi,,0,0,0,,真是见鬼了
 Dialogue: 0,0:09:18.70,0:09:20.16,标准-Eng,,0,0,0,,Holy shrimp
@@ -455,17 +456,17 @@ Dialogue: 1,0:09:32.21,0:09:33.71,标准-Chi,,0,0,0,,你来这干什么
 Dialogue: 0,0:09:32.21,0:09:33.71,标准-Eng,,0,0,0,,What are you doing here?
 Dialogue: 1,0:09:35.01,0:09:37.01,标准-Chi,,0,0,0,,我都是凌晨三点钟来上班的
 Dialogue: 0,0:09:35.01,0:09:37.01,标准-Eng,,0,0,0,,I always come to work at 3:00 am
-Dialogue: 1,0:09:37.01,0:09:38.68,标准-Chi,,0,0,0,,我在这个点来数芝麻
-Dialogue: 0,0:09:37.01,0:09:38.68,标准-Eng,,0,0,0,,This is when I count the sesame seeds
-Dialogue: 1,0:09:38.80,0:09:39.89,标准-Chi,,0,0,0,,你又来这干什么
-Dialogue: 0,0:09:38.80,0:09:39.89,标准-Eng,,0,0,0,,What are you doing here?
+Dialogue: 1,0:09:37.01,0:09:38.84,标准-Chi,,0,0,0,,我在这个点来数芝麻
+Dialogue: 0,0:09:37.01,0:09:38.84,标准-Eng,,0,0,0,,This is when I count the sesame seeds
+Dialogue: 1,0:09:38.84,0:09:39.97,标准-Chi,,0,0,0,,你又来这干什么
+Dialogue: 0,0:09:38.84,0:09:39.97,标准-Eng,,0,0,0,,What are you doing here?
 Dialogue: 1,0:09:40.55,0:09:41.43,标准-Chi,,0,0,0,,我忘拿我的
 Dialogue: 0,0:09:40.55,0:09:41.43,标准-Eng,,0,0,0,,I forgot my
 Dialogue: 1,0:09:41.43,0:09:43.10,标准-Chi,,0,0,0,,蟹黄堡保险库干嘛开着
 Dialogue: 0,0:09:41.43,0:09:43.10,标准-Eng,,0,0,0,,And why is the patty vault open?
 Dialogue: 1,0:09:43.47,0:09:44.18,标准-Chi,,0,0,0,,我觉得
 Dialogue: 0,0:09:43.47,0:09:44.18,标准-Eng,,0,0,0,,I thought that
-Dialogue: 1,0:09:44.18,0:09:46.52,标准-Chi,,0,0,0,,你干嘛把一个蟹黄堡藏在背后了
+Dialogue: 1,0:09:44.18,0:09:46.52,标准-Chi,,0,0,0,,你干嘛把一个蟹黄堡藏在背后
 Dialogue: 0,0:09:44.18,0:09:46.52,标准-Eng,,0,0,0,,And why are you holding a patty behind your back?
 Dialogue: 1,0:09:46.52,0:09:47.94,标准-Chi,,0,0,0,,我我我
 Dialogue: 0,0:09:46.52,0:09:47.94,标准-Eng,,0,0,0,,I-I-I-
@@ -479,8 +480,8 @@ Dialogue: 1,0:09:51.86,0:09:53.23,标准-Chi,,0,0,0,,你干嘛看着这么饿
 Dialogue: 0,0:09:51.86,0:09:53.23,标准-Eng,,0,0,0,,And why do you look so hungry?
 Dialogue: 1,0:09:53.23,0:09:53.53,标准-Chi,,0,0,0,,你
 Dialogue: 0,0:09:53.23,0:09:53.53,标准-Eng,,0,0,0,,And
-Dialogue: 1,0:09:56.20,0:09:56.90,标准-Chi,,0,0,0,,不对  你听我说
-Dialogue: 0,0:09:56.20,0:09:56.90,标准-Eng,,0,0,0,,No, no, wait
+Dialogue: 1,0:09:56.15,0:09:56.90,标准-Chi,,0,0,0,,不对  等等
+Dialogue: 0,0:09:56.15,0:09:56.90,标准-Eng,,0,0,0,,No, no, wait
 Dialogue: 1,0:09:56.90,0:09:57.86,标准-Chi,,0,0,0,,不是你想的那样
 Dialogue: 0,0:09:56.90,0:09:57.86,标准-Eng,,0,0,0,,it's not what you think
 Dialogue: 1,0:09:58.16,0:10:00.07,标准-Chi,,0,0,0,,这  这可是个天大的误会
@@ -493,8 +494,8 @@ Dialogue: 1,0:10:01.74,0:10:03.04,标准-Chi,,0,0,0,,听好  我跟你说
 Dialogue: 0,0:10:01.74,0:10:03.04,标准-Eng,,0,0,0,,Listen, I am telling you
 Dialogue: 1,0:10:03.04,0:10:04.66,标准-Chi,,0,0,0,,最好给我听好了  海绵宝宝
 Dialogue: 0,0:10:03.04,0:10:04.66,标准-Eng,,0,0,0,,You better listen to me, SpongeBob
-Dialogue: 1,0:10:04.79,0:10:07.83,标准-Chi,,0,0,0,,你喜欢蟹黄堡  对不对章鱼哥
-Dialogue: 0,0:10:04.79,0:10:07.83,标准-Eng,,0,0,0,,You like Krabby Patties, don't you, Squidward?
+Dialogue: 1,0:10:04.83,0:10:07.92,标准-Chi,,0,0,0,,你喜欢蟹黄堡  对不对章鱼哥
+Dialogue: 0,0:10:04.83,0:10:07.92,标准-Eng,,0,0,0,,You like Krabby Patties, don't you, Squidward?
 Dialogue: 1,0:10:09.63,0:10:12.09,标准-Chi,,0,0,0,,对
 Dialogue: 0,0:10:09.63,0:10:12.09,标准-Eng,,0,0,0,,Yes
 Dialogue: 1,0:10:12.09,0:10:13.92,标准-Chi,,0,0,0,,我承认了  海绵宝宝
@@ -509,26 +510,26 @@ Dialogue: 1,0:10:32.19,0:10:34.28,标准-Chi,,0,0,0,,章鱼哥  你吃多少了
 Dialogue: 0,0:10:32.19,0:10:34.28,标准-Eng,,0,0,0,,Squidward, how many are you eating?
 Dialogue: 1,0:10:34.44,0:10:35.48,标准-Chi,,0,0,0,,章鱼哥
 Dialogue: 0,0:10:34.44,0:10:35.48,标准-Eng,,0,0,0,,Squidward
-Dialogue: 1,0:10:44.54,0:10:48.33,标准-Chi,,0,0,0,,章鱼哥  不能一口气吃掉所有蟹黄堡
-Dialogue: 0,0:10:44.54,0:10:48.33,标准-Eng,,0,0,0,,Squidward, you can't eat all those patties at one time
+Dialogue: 1,0:10:44.66,0:10:48.33,标准-Chi,,0,0,0,,章鱼哥  不能一口气把蟹黄堡都吃光
+Dialogue: 0,0:10:44.66,0:10:48.33,标准-Eng,,0,0,0,,Squidward, you can't eat all those patties at one time
 Dialogue: 1,0:10:48.33,0:10:50.04,标准-Chi,,0,0,0,,章鱼哥
 Dialogue: 0,0:10:48.33,0:10:50.04,标准-Eng,,0,0,0,,Squidward
-Dialogue: 1,0:10:50.17,0:10:51.71,标准-Chi,,0,0,0,,那会怎么样
-Dialogue: 0,0:10:50.17,0:10:51.71,标准-Eng,,0,0,0,,What's gonna happen?
+Dialogue: 1,0:10:50.25,0:10:51.71,标准-Chi,,0,0,0,,那会怎么样
+Dialogue: 0,0:10:50.25,0:10:51.71,标准-Eng,,0,0,0,,What's gonna happen?
 Dialogue: 1,0:10:51.71,0:10:53.50,标准-Chi,,0,0,0,,我会爆炸吗
 Dialogue: 0,0:10:51.71,0:10:53.50,标准-Eng,,0,0,0,,Am I gonna blow up?
 Dialogue: 1,0:10:53.79,0:10:55.00,标准-Chi,,0,0,0,,会更惨
 Dialogue: 0,0:10:53.79,0:10:55.00,标准-Eng,,0,0,0,,No, worse
 Dialogue: 1,0:10:55.00,0:10:56.84,标准-Chi,,0,0,0,,蟹黄堡会先跑你大腿里面
 Dialogue: 0,0:10:55.00,0:10:56.84,标准-Eng,,0,0,0,,it'll go right to your thighs
-Dialogue: 1,0:10:57.51,0:10:58.80,标准-Chi,,0,0,0,,大腿嘛
-Dialogue: 0,0:10:57.51,0:10:58.80,标准-Eng,,0,0,0,,My thighs?
+Dialogue: 1,0:10:57.67,0:10:58.80,标准-Chi,,0,0,0,,大腿吗
+Dialogue: 0,0:10:57.67,0:10:58.80,标准-Eng,,0,0,0,,My thighs?
 Dialogue: 1,0:10:59.51,0:11:00.84,标准-Chi,,0,0,0,,然后再爆炸
 Dialogue: 0,0:10:59.51,0:11:00.84,标准-Eng,,0,0,0,,And then you'll blow up
-Dialogue: 1,0:11:07.73,0:11:09.18,标准-Chi,,0,0,0,,是啊
-Dialogue: 0,0:11:07.73,0:11:09.18,标准-Eng,,0,0,0,,Yeah
-Dialogue: 1,0:11:09.18,0:11:12.10,标准-Chi,,0,0,0,,我还记得我吃的第一个蟹黄堡
-Dialogue: 0,0:11:09.18,0:11:12.10,标准-Eng,,0,0,0,,I remember my first Krabby Patty
+Dialogue: 1,0:11:07.81,0:11:09.18,标准-Chi,,0,0,0,,是啊
+Dialogue: 0,0:11:07.81,0:11:09.18,标准-Eng,,0,0,0,,Yeah
+Dialogue: 1,0:11:09.18,0:11:12.23,标准-Chi,,0,0,0,,我还记得我吃的第一个蟹黄堡
+Dialogue: 0,0:11:09.18,0:11:12.23,标准-Eng,,0,0,0,,I remember my first Krabby Patty
 Dialogue: 0,0:11:14.52,0:11:16.23,起司 一般标题,,0,0,0,,{\fad(263,363)}恶霸
 Dialogue: 0,0:11:16.82,0:11:19.03,画面内容,,0,0,0,,{\pos(304,350)\frz19.45}分镜总监
 Dialogue: 0,0:11:16.82,0:11:19.03,画面内容,,0,0,0,,{\pos(450,678)\frz20.72}分镜
@@ -538,12 +539,12 @@ Dialogue: 0,0:11:21.78,0:11:24.16,画面内容,,0,0,0,,{\frz19.45\pos(330,340)}�
 Dialogue: 0,0:11:21.78,0:11:24.16,画面内容,,0,0,0,,{\frz19.45\pos(468,670)}创意总监
 Dialogue: 0,0:11:21.78,0:11:24.16,画面内容,,0,0,0,,{\pos(1034.667,976.667)}本字幕仅限学习交流\N严禁用于商业用途
 Dialogue: 0,0:11:24.20,0:11:27.16,画面内容,,0,0,0,,{\pos(616,552)}滑浪学校
-Dialogue: 1,0:11:55.40,0:11:56.44,标准-Chi,,0,0,0,,不好意思  小姐
-Dialogue: 0,0:11:55.40,0:11:56.44,标准-Eng,,0,0,0,,Excuse me, Miss
-Dialogue: 1,0:11:56.44,0:11:58.19,标准-Chi,,0,0,0,,我都不想再打你小报告了
-Dialogue: 0,0:11:56.44,0:11:58.19,标准-Eng,,0,0,0,,I don't want to have to report you again
-Dialogue: 1,0:11:59.03,0:12:00.15,标准-Chi,,0,0,0,,我只是想知道
-Dialogue: 0,0:11:59.03,0:12:00.15,标准-Eng,,0,0,0,,I was just wondering
+Dialogue: 1,0:11:55.44,0:11:56.48,标准-Chi,,0,0,0,,不好意思  小姐
+Dialogue: 0,0:11:55.44,0:11:56.48,标准-Eng,,0,0,0,,Excuse me, Miss
+Dialogue: 1,0:11:56.48,0:11:58.19,标准-Chi,,0,0,0,,我都不想再打你小报告了
+Dialogue: 0,0:11:56.48,0:11:58.19,标准-Eng,,0,0,0,,I don't want to have to report you again
+Dialogue: 1,0:11:59.15,0:12:00.15,标准-Chi,,0,0,0,,我只是想知道
+Dialogue: 0,0:11:59.15,0:12:00.15,标准-Eng,,0,0,0,,I was just wondering
 Dialogue: 1,0:12:00.32,0:12:03.03,标准-Chi,,0,0,0,,本子左边的作业铅笔
 Dialogue: 0,0:12:00.32,0:12:03.03,标准-Eng,,0,0,0,,Is it the "homework pencil" on the left side of the paper
 Dialogue: 1,0:12:03.03,0:12:04.57,标准-Chi,,0,0,0,,要挨着考试铅笔好
@@ -559,7 +560,7 @@ Dialogue: 0,0:12:08.70,0:12:09.70,标准-Eng,,0,0,0,,Wait, I got it
 Dialogue: 1,0:12:09.83,0:12:13.21,标准-Chi,,0,0,0,,考试铅笔要放这里  紧挨着作文铅笔
 Dialogue: 0,0:12:09.83,0:12:11.71,标准-Eng,,0,0,0,,The "quiz pencil" goes right over here
 Dialogue: 0,0:12:11.71,0:12:13.21,标准-Eng,,0,0,0,,next to the "essay" pencil
-Dialogue: 1,0:12:13.21,0:12:16.54,标准-Chi,,0,0,0,,作文铅笔要侧着放  指到本子上面
+Dialogue: 1,0:12:13.21,0:12:16.54,标准-Chi,,0,0,0,,作文铅笔要侧着放  指向本子
 Dialogue: 0,0:12:13.21,0:12:15.50,标准-Eng,,0,0,0,,And the "essay" pencil gets turned sideways
 Dialogue: 0,0:12:15.50,0:12:16.54,标准-Eng,,0,0,0,,towards the notepad
 Dialogue: 1,0:12:16.54,0:12:18.13,标准-Chi,,0,0,0,,以备写作文用
@@ -584,8 +585,8 @@ Dialogue: 1,0:12:33.48,0:12:37.48,标准-Chi,,0,0,0,,就一起用满脸笑容迎
 Dialogue: 0,0:12:33.48,0:12:37.48,标准-Eng,,0,0,0,,So let's all put on a happy face for Flats the Flounder
 Dialogue: 1,0:12:40.65,0:12:43.28,标准-Chi,,0,0,0,,跟班上的同学们做自我介绍吧  平平
 Dialogue: 0,0:12:40.65,0:12:43.28,标准-Eng,,0,0,0,,Tell the class something about yourself, Flats
-Dialogue: 1,0:12:43.40,0:12:44.03,标准-Chi,,0,0,0,,那个
-Dialogue: 0,0:12:43.40,0:12:44.03,标准-Eng,,0,0,0,,Well
+Dialogue: 1,0:12:43.45,0:12:44.03,标准-Chi,,0,0,0,,那个
+Dialogue: 0,0:12:43.45,0:12:44.03,标准-Eng,,0,0,0,,Well
 Dialogue: 1,0:12:44.32,0:12:46.57,标准-Chi,,0,0,0,,我喜欢揍别人
 Dialogue: 0,0:12:44.32,0:12:46.57,标准-Eng,,0,0,0,,I like to kick people's butts
 Dialogue: 1,0:12:48.78,0:12:50.29,标准-Chi,,0,0,0,,好幽默
@@ -642,8 +643,8 @@ Dialogue: 1,0:13:50.05,0:13:53.85,标准-Chi,,0,0,0,,基本十字路口的示意
 Dialogue: 0,0:13:50.05,0:13:53.85,标准-Eng,,0,0,0,,a diagram of a basic four-way intersection, Flats
 Dialogue: 1,0:13:55.98,0:14:00.19,标准-Chi,,0,0,0,,快转身给全班看你画的示意图  同学
 Dialogue: 0,0:13:55.98,0:14:00.19,标准-Eng,,0,0,0,,Please turn and show the class what you drew, honey
-Dialogue: 1,0:14:04.32,0:14:07.53,标准-Chi,,0,0,0,,天哪  好有创意
-Dialogue: 0,0:14:04.32,0:14:07.53,标准-Eng,,0,0,0,,My, how very creative
+Dialogue: 1,0:14:04.49,0:14:07.53,标准-Chi,,0,0,0,,天哪  好有创意
+Dialogue: 0,0:14:04.49,0:14:07.53,标准-Eng,,0,0,0,,My, how very creative
 Dialogue: 1,0:14:07.53,0:14:10.12,标准-Chi,,0,0,0,,我们班出了个画家
 Dialogue: 0,0:14:07.53,0:14:10.12,标准-Eng,,0,0,0,,We have an artist in the class
 Dialogue: 1,0:14:16.75,0:14:18.50,标准-Chi,,0,0,0,,我真搞不懂
@@ -660,7 +661,7 @@ Dialogue: 1,0:14:28.22,0:14:28.68,标准-Chi,,0,0,0,,二
 Dialogue: 0,0:14:28.22,0:14:28.68,标准-Eng,,0,0,0,,two
 Dialogue: 1,0:14:28.93,0:14:30.80,标准-Chi,,0,0,0,,不好  讲了七个字
 Dialogue: 0,0:14:28.93,0:14:30.80,标准-Eng,,0,0,0,,Oh no, that's three
-Dialogue: 0,0:14:28.93,0:14:30.80,画面内容,,0,0,0,,{\fs60\pos(850,920)}三 个
+Dialogue: 0,0:14:28.93,0:14:30.80,画面内容,,0,0,0,,{\fs60\pos(888,920)}三 个 词
 Dialogue: 1,0:14:30.80,0:14:32.10,标准-Chi,,0,0,0,,我要怎么办
 Dialogue: 0,0:14:30.80,0:14:32.10,标准-Eng,,0,0,0,,What am I gonna do?
 Dialogue: 1,0:14:32.55,0:14:33.26,标准-Chi,,0,0,0,,什么声音
@@ -671,8 +672,8 @@ Dialogue: 1,0:14:34.72,0:14:35.68,标准-Chi,,0,0,0,,离得越来越近了
 Dialogue: 0,0:14:34.72,0:14:35.68,标准-Eng,,0,0,0,,They're getting closer
 Dialogue: 1,0:14:35.85,0:14:37.10,标准-Chi,,0,0,0,,我必须要自然点
 Dialogue: 0,0:14:35.85,0:14:37.10,标准-Eng,,0,0,0,,I just got to act natural
-Dialogue: 1,0:14:40.81,0:14:42.23,标准-Chi,,0,0,0,,真不错
-Dialogue: 0,0:14:40.81,0:14:42.23,标准-Eng,,0,0,0,,Oh, that's real nice
+Dialogue: 1,0:14:41.03,0:14:42.23,标准-Chi,,0,0,0,,真不错
+Dialogue: 0,0:14:41.03,0:14:42.23,标准-Eng,,0,0,0,,That's real nice
 Dialogue: 1,0:14:46.19,0:14:48.03,标准-Chi,,0,0,0,,我本来还以为来的会是
 Dialogue: 0,0:14:46.19,0:14:48.03,标准-Eng,,0,0,0,,I thought for sure that was gonna be
 Dialogue: 1,0:14:48.03,0:14:49.28,标准-Chi,,0,0,0,,平平
@@ -689,28 +690,28 @@ Dialogue: 1,0:14:58.41,0:14:59.87,标准-Chi,,0,0,0,,那个人弯下身子说
 Dialogue: 0,0:14:58.41,0:14:59.87,标准-Eng,,0,0,0,,And he leans over and says
 Dialogue: 1,0:14:59.87,0:15:03.17,标准-Chi,,0,0,0,,要知道生活就像是一大水桶的木屑
 Dialogue: 0,0:14:59.87,0:15:03.17,标准-Eng,,0,0,0,,"Hey, ya know, life's like a bucket of wood shavings
-Dialogue: 1,0:15:03.38,0:15:05.55,标准-Chi,,0,0,0,,不过如果木屑是在提桶里的话
-Dialogue: 0,0:15:03.38,0:15:05.55,标准-Eng,,0,0,0,,"except for when the shavings are in a pail
+Dialogue: 1,0:15:03.38,0:15:05.67,标准-Chi,,0,0,0,,不过如果木屑是在提桶里的话
+Dialogue: 0,0:15:03.38,0:15:05.67,标准-Eng,,0,0,0,,"except for when the shavings are in a pail
 Dialogue: 1,0:15:05.67,0:15:07.80,标准-Chi,,0,0,0,,那样生活就像是一大提桶的木屑了
 Dialogue: 0,0:15:05.67,0:15:07.80,标准-Eng,,0,0,0,,then it's like a pail of wood shavings"
 Dialogue: 1,0:15:09.26,0:15:10.72,标准-Chi,,0,0,0,,这个故事对我好有启发
 Dialogue: 0,0:15:09.26,0:15:10.72,标准-Eng,,0,0,0,,That story really speaks to me
-Dialogue: 1,0:15:10.72,0:15:11.34,标准-Chi,,0,0,0,,真的吗
-Dialogue: 0,0:15:10.72,0:15:11.34,标准-Eng,,0,0,0,,Really?
+Dialogue: 1,0:15:10.72,0:15:11.43,标准-Chi,,0,0,0,,真的吗
+Dialogue: 0,0:15:10.72,0:15:11.43,标准-Eng,,0,0,0,,Really?
 Dialogue: 1,0:15:11.43,0:15:12.34,标准-Chi,,0,0,0,,启发什么了
 Dialogue: 0,0:15:11.43,0:15:12.34,标准-Eng,,0,0,0,,What's it say?
 Dialogue: 1,0:15:12.34,0:15:15.35,标准-Chi,,0,0,0,,启发了我  要加倍用力来揍你
 Dialogue: 0,0:15:12.34,0:15:15.35,标准-Eng,,0,0,0,,It says now I'm gonna kick your butt twice as hard
-Dialogue: 1,0:15:19.85,0:15:22.44,标准-Chi,,0,0,0,,把小蜗的饮水盆交给小蜗保管
+Dialogue: 1,0:15:19.85,0:15:22.44,标准-Chi,,0,0,0,,把小蜗的饮水盆遗赠给小蜗
 Dialogue: 0,0:15:19.85,0:15:22.44,标准-Eng,,0,0,0,,And I'll leave Gary's water bowl to Gary
-Dialogue: 1,0:15:22.44,0:15:24.02,标准-Chi,,0,0,0,,把我窗帘交给
+Dialogue: 1,0:15:22.44,0:15:24.02,标准-Chi,,0,0,0,,把我窗帘赠给
 Dialogue: 0,0:15:22.44,0:15:24.02,标准-Eng,,0,0,0,,and my curtains to
 Dialogue: 1,0:15:24.15,0:15:26.53,标准-Chi,,0,0,0,,海神王啊  我做不到
 Dialogue: 0,0:15:24.15,0:15:26.53,标准-Eng,,0,0,0,,Oh, Neptune, I just can't do this
-Dialogue: 1,0:15:28.69,0:15:31.41,标准-Chi,,0,0,0,,死刑犯牢房  请下一位接听电话
+Dialogue: 1,0:15:28.69,0:15:31.41,标准-Chi,,0,0,0,,这是死刑犯牢房  我是下一位受刑的
 Dialogue: 0,0:15:28.69,0:15:31.41,标准-Eng,,0,0,0,,Death row, "next-in-line" speaking
-Dialogue: 1,0:15:31.41,0:15:34.20,标准-Chi,,0,0,0,,喂  我要订一份外卖
-Dialogue: 0,0:15:31.41,0:15:34.20,标准-Eng,,0,0,0,,Hi, I'd like to place an order for delivery
+Dialogue: 1,0:15:31.41,0:15:34.28,标准-Chi,,0,0,0,,喂  我要订一份外卖
+Dialogue: 0,0:15:31.41,0:15:34.28,标准-Eng,,0,0,0,,Hi, I'd like to place an order for delivery
 Dialogue: 1,0:15:34.37,0:15:35.33,标准-Chi,,0,0,0,,派大星
 Dialogue: 0,0:15:34.37,0:15:35.33,标准-Eng,,0,0,0,,Patrick
 Dialogue: 1,0:15:35.33,0:15:36.37,标准-Chi,,0,0,0,,是你吗
@@ -723,8 +724,8 @@ Dialogue: 1,0:15:41.12,0:15:42.17,标准-Chi,,0,0,0,,派大星  你听好了
 Dialogue: 0,0:15:41.12,0:15:42.17,标准-Eng,,0,0,0,,Patrick, listen
 Dialogue: 1,0:15:42.17,0:15:43.67,标准-Chi,,0,0,0,,是我  海绵宝宝
 Dialogue: 0,0:15:42.17,0:15:43.67,标准-Eng,,0,0,0,,It's me, SpongeBob
-Dialogue: 1,0:15:43.67,0:15:44.79,标准-Chi,,0,0,0,,我要你来帮忙
-Dialogue: 0,0:15:43.67,0:15:44.79,标准-Eng,,0,0,0,,I need your help
+Dialogue: 1,0:15:43.67,0:15:44.88,标准-Chi,,0,0,0,,我要你来帮忙
+Dialogue: 0,0:15:43.67,0:15:44.88,标准-Eng,,0,0,0,,I need your help
 Dialogue: 1,0:15:44.88,0:15:47.09,标准-Chi,,0,0,0,,你现在是在匹萨城里上班吗
 Dialogue: 0,0:15:44.88,0:15:47.09,标准-Eng,,0,0,0,,You're working at Pizza Castle now?
 Dialogue: 1,0:15:47.09,0:15:47.84,标准-Chi,,0,0,0,,说什么
@@ -736,10 +737,10 @@ Dialogue: 0,0:15:49.30,0:15:50.51,标准-Eng,,0,0,0,,I'm in big trouble
 Dialogue: 1,0:15:50.51,0:15:53.34,标准-Chi,,0,0,0,,驾校新来了个同学  想要揍我
 Dialogue: 0,0:15:50.51,0:15:51.84,标准-Eng,,0,0,0,,There's a new guy at school here
 Dialogue: 0,0:15:51.84,0:15:53.34,标准-Eng,,0,0,0,,and he wants kick my butt
-Dialogue: 1,0:15:53.47,0:15:55.14,标准-Chi,,0,0,0,,我跟你说  你又大又壮
-Dialogue: 0,0:15:53.47,0:15:55.14,标准-Eng,,0,0,0,,Listen, you're big and strong
-Dialogue: 1,0:15:55.30,0:15:57.22,标准-Chi,,0,0,0,,你可不可以来这一趟
-Dialogue: 0,0:15:55.30,0:15:57.22,标准-Eng,,0,0,0,,Do you think you can come down here
+Dialogue: 1,0:15:53.59,0:15:55.14,标准-Chi,,0,0,0,,我跟你说  你又大又壮
+Dialogue: 0,0:15:53.59,0:15:55.14,标准-Eng,,0,0,0,,Listen, you're big and strong
+Dialogue: 1,0:15:55.39,0:15:57.22,标准-Chi,,0,0,0,,你可不可以来这一趟
+Dialogue: 0,0:15:55.39,0:15:57.22,标准-Eng,,0,0,0,,Do you think you can come down here
 Dialogue: 1,0:15:57.22,0:15:58.72,标准-Chi,,0,0,0,,帮忙来揍他
 Dialogue: 0,0:15:57.22,0:15:58.72,标准-Eng,,0,0,0,,maybe rough him up a bit
 Dialogue: 1,0:15:58.72,0:16:00.35,标准-Chi,,0,0,0,,好让他放过我吗
@@ -748,7 +749,7 @@ Dialogue: 1,0:16:00.35,0:16:01.64,标准-Chi,,0,0,0,,求你了  派大星
 Dialogue: 0,0:16:00.35,0:16:01.64,标准-Eng,,0,0,0,,Please, Patrick
 Dialogue: 1,0:16:01.64,0:16:02.56,标准-Chi,,0,0,0,,我好怕
 Dialogue: 0,0:16:01.64,0:16:02.56,标准-Eng,,0,0,0,,I'm so scared
-Dialogue: 1,0:16:02.56,0:16:04.73,标准-Chi,,0,0,0,,我感觉我都要吐了
+Dialogue: 1,0:16:02.56,0:16:04.73,标准-Chi,,0,0,0,,感觉我都要吐了
 Dialogue: 0,0:16:02.56,0:16:04.73,标准-Eng,,0,0,0,,it feels like I'm gonna throw up
 Dialogue: 1,0:16:04.90,0:16:06.23,标准-Chi,,0,0,0,,那边店里没关门
 Dialogue: 0,0:16:04.90,0:16:06.23,标准-Eng,,0,0,0,,No, they're not closed
@@ -761,45 +762,45 @@ Dialogue: 0,0:16:09.99,0:16:11.24,标准-Eng,,0,0,0,,I'm sorry, SpongeBob
 Dialogue: 1,0:16:11.36,0:16:15.32,标准-Chi,,0,0,0,,我刚在跟我社区学院的校友平平聊天
 Dialogue: 0,0:16:11.36,0:16:12.32,标准-Eng,,0,0,0,,I was just talking to
 Dialogue: 0,0:16:12.32,0:16:15.32,标准-Eng,,0,0,0,,my old community college buddy, Flats
-Dialogue: 1,0:16:15.82,0:16:19.04,标准-Chi,,0,0,0,,我在汽水店里碰见他的  你说怪不怪
-Dialogue: 0,0:16:15.82,0:16:19.04,标准-Eng,,0,0,0,,I bumped into him at the soda store, isn't that funny?
+Dialogue: 1,0:16:16.07,0:16:19.04,标准-Chi,,0,0,0,,我在汽水店里碰见他的  你说巧不巧
+Dialogue: 0,0:16:16.07,0:16:19.04,标准-Eng,,0,0,0,,I bumped into him at the soda store, isn't that funny?
 Dialogue: 1,0:16:19.04,0:16:22.16,标准-Chi,,0,0,0,,我们肯定有好几年没有碰过面了
 Dialogue: 0,0:16:19.04,0:16:22.16,标准-Eng,,0,0,0,,It must have been years since we've seen each other
 Dialogue: 1,0:16:22.16,0:16:23.29,标准-Chi,,0,0,0,,该挂了
 Dialogue: 0,0:16:22.16,0:16:23.29,标准-Eng,,0,0,0,,Well, let me get going
 Dialogue: 1,0:16:23.29,0:16:25.42,标准-Chi,,0,0,0,,他得马上回驾校
 Dialogue: 0,0:16:23.29,0:16:25.42,标准-Eng,,0,0,0,,He's got to go back to school soon
-Dialogue: 1,0:16:25.42,0:16:27.88,标准-Chi,,0,0,0,,说是他必须得去揍某个人
+Dialogue: 1,0:16:25.42,0:16:27.88,标准-Chi,,0,0,0,,说是必须得去揍某个人
 Dialogue: 0,0:16:25.42,0:16:27.88,标准-Eng,,0,0,0,,He says he's got to kick somebody's butt
 Dialogue: 1,0:16:30.92,0:16:31.80,标准-Chi,,0,0,0,,喂
 Dialogue: 0,0:16:30.92,0:16:31.80,标准-Eng,,0,0,0,,Hello?
 Dialogue: 1,0:16:31.80,0:16:33.26,标准-Chi,,0,0,0,,是匹萨城吗
 Dialogue: 0,0:16:31.80,0:16:33.26,标准-Eng,,0,0,0,,Is this Pizza Castle?
-Dialogue: 1,0:16:36.80,0:16:38.35,标准-Chi,,0,0,0,,进来  海绵宝宝
-Dialogue: 0,0:16:36.80,0:16:38.35,标准-Eng,,0,0,0,,Come in, SpongeBob
-Dialogue: 1,0:16:42.56,0:16:45.15,标准-Chi,,0,0,0,,泡芙老师  我可不可以改上别的班
-Dialogue: 0,0:16:42.56,0:16:45.15,标准-Eng,,0,0,0,,Mrs. Puff, can I be in a different class?
+Dialogue: 1,0:16:36.97,0:16:38.35,标准-Chi,,0,0,0,,进来  海绵宝宝
+Dialogue: 0,0:16:36.97,0:16:38.35,标准-Eng,,0,0,0,,Come in, SpongeBob
+Dialogue: 1,0:16:42.77,0:16:45.15,标准-Chi,,0,0,0,,泡芙老师  我可不可以改上别的班
+Dialogue: 0,0:16:42.77,0:16:45.15,标准-Eng,,0,0,0,,Mrs. Puff, can I be in a different class?
 Dialogue: 1,0:16:45.15,0:16:46.31,标准-Chi,,0,0,0,,为什么
 Dialogue: 0,0:16:45.15,0:16:46.31,标准-Eng,,0,0,0,,But why?
-Dialogue: 1,0:16:46.31,0:16:47.90,标准-Chi,,0,0,0,,我说不来
+Dialogue: 1,0:16:46.31,0:16:47.90,标准-Chi,,0,0,0,,我没法说
 Dialogue: 0,0:16:46.31,0:16:47.90,标准-Eng,,0,0,0,,I can't tell you
-Dialogue: 1,0:16:47.90,0:16:49.32,标准-Chi,,0,0,0,,怎么就说不来
+Dialogue: 1,0:16:47.90,0:16:49.32,标准-Chi,,0,0,0,,为什么没法说
 Dialogue: 0,0:16:47.90,0:16:49.32,标准-Eng,,0,0,0,,Why ever not?
-Dialogue: 1,0:16:49.32,0:16:51.36,标准-Chi,,0,0,0,,我就是说不来  泡芙老师
+Dialogue: 1,0:16:49.32,0:16:51.36,标准-Chi,,0,0,0,,就是没法说  泡芙老师
 Dialogue: 0,0:16:49.32,0:16:51.36,标准-Eng,,0,0,0,,I just can't, Mrs. Puff
 Dialogue: 1,0:16:51.69,0:16:54.66,标准-Chi,,0,0,0,,我就只能说  我正面临生命危险
 Dialogue: 0,0:16:51.69,0:16:54.66,标准-Eng,,0,0,0,,My physical being is at stake, let's just leave it at that
 Dialogue: 1,0:16:54.66,0:16:57.91,标准-Chi,,0,0,0,,海绵宝宝  你可以向我倾诉的
 Dialogue: 0,0:16:54.66,0:16:57.91,标准-Eng,,0,0,0,,SpongeBob, you can tell me anything
-Dialogue: 1,0:16:57.91,0:16:59.41,标准-Chi,,0,0,0,,要相信这一点
-Dialogue: 0,0:16:57.91,0:16:59.41,标准-Eng,,0,0,0,,You've got to believe that
+Dialogue: 1,0:16:57.91,0:16:59.45,标准-Chi,,0,0,0,,要相信这一点
+Dialogue: 0,0:16:57.91,0:16:59.45,标准-Eng,,0,0,0,,You've got to believe that
 Dialogue: 1,0:16:59.45,0:17:00.12,标准-Chi,,0,0,0,,那
 Dialogue: 0,0:16:59.45,0:17:00.12,标准-Eng,,0,0,0,,Well
-Dialogue: 1,0:17:00.29,0:17:01.16,标准-Chi,,0,0,0,,好吧
-Dialogue: 0,0:17:00.29,0:17:01.16,标准-Eng,,0,0,0,,okay
+Dialogue: 1,0:17:00.49,0:17:01.16,标准-Chi,,0,0,0,,好吧
+Dialogue: 0,0:17:00.49,0:17:01.16,标准-Eng,,0,0,0,,okay
 Dialogue: 1,0:17:01.33,0:17:03.66,标准-Chi,,0,0,0,,但是必须要发誓不跟别人讲
 Dialogue: 0,0:17:01.33,0:17:03.66,标准-Eng,,0,0,0,,But only if you promise to keep it between us
-Dialogue: 1,0:17:03.79,0:17:05.00,标准-Chi,,0,0,0,,好的
+Dialogue: 1,0:17:03.79,0:17:05.00,标准-Chi,,0,0,0,,当然
 Dialogue: 0,0:17:03.79,0:17:05.00,标准-Eng,,0,0,0,,Of course
 Dialogue: 1,0:17:05.00,0:17:07.54,标准-Chi,,0,0,0,,平平说他要揍我
 Dialogue: 0,0:17:05.00,0:17:07.54,标准-Eng,,0,0,0,,Flats says he's gonna kick my butt
@@ -809,14 +810,14 @@ Dialogue: 1,0:17:08.54,0:17:12.30,标准-Chi,,0,0,0,,我的课上不准许出现
 Dialogue: 0,0:17:08.54,0:17:12.30,标准-Eng,,0,0,0,,There shall be no butt-kicking in any class of mine
 Dialogue: 1,0:17:12.42,0:17:14.42,标准-Chi,,0,0,0,,大家都老大不小了
 Dialogue: 0,0:17:12.42,0:17:14.42,标准-Eng,,0,0,0,,This is an adult program
-Dialogue: 1,0:17:14.42,0:17:17.09,标准-Chi,,0,0,0,,海绵宝宝  就交给我好了
-Dialogue: 0,0:17:14.42,0:17:17.09,标准-Eng,,0,0,0,,SpongeBob, just leave it to me
+Dialogue: 1,0:17:14.42,0:17:17.18,标准-Chi,,0,0,0,,海绵宝宝  就交给我好了
+Dialogue: 0,0:17:14.42,0:17:17.18,标准-Eng,,0,0,0,,SpongeBob, just leave it to me
 Dialogue: 1,0:17:17.76,0:17:19.10,标准-Chi,,0,0,0,,谢谢你  泡芙老师
 Dialogue: 0,0:17:17.76,0:17:19.10,标准-Eng,,0,0,0,,Thanks, Mrs. Puff
 Dialogue: 1,0:17:19.10,0:17:20.89,标准-Chi,,0,0,0,,就知道可以信任你
 Dialogue: 0,0:17:19.10,0:17:20.89,标准-Eng,,0,0,0,,I knew I could count on you
-Dialogue: 1,0:17:23.81,0:17:25.52,标准-Chi,,0,0,0,,饭吃得香不香  海绵宝宝
-Dialogue: 0,0:17:23.81,0:17:25.52,标准-Eng,,0,0,0,,Have a nice lunch, SpongeBob?
+Dialogue: 1,0:17:23.85,0:17:25.52,标准-Chi,,0,0,0,,饭吃得香不香  海绵宝宝
+Dialogue: 0,0:17:23.85,0:17:25.52,标准-Eng,,0,0,0,,Have a nice lunch, SpongeBob?
 Dialogue: 1,0:17:25.73,0:17:26.98,标准-Chi,,0,0,0,,当然香  泡芙老师
 Dialogue: 0,0:17:25.73,0:17:26.98,标准-Eng,,0,0,0,,Yes, Mrs. Puff
 Dialogue: 1,0:17:28.23,0:17:30.90,标准-Chi,,0,0,0,,海绵宝宝  我帮你跟平平讲了
@@ -831,11 +832,11 @@ Dialogue: 1,0:17:35.40,0:17:37.82,标准-Chi,,0,0,0,,他根本就不是要揍你
 Dialogue: 0,0:17:35.40,0:17:37.82,标准-Eng,,0,0,0,,He was never going to kick your butt at all
 Dialogue: 1,0:17:37.82,0:17:39.20,标准-Chi,,0,0,0,,知道吗  海绵宝宝
 Dialogue: 0,0:17:37.82,0:17:39.20,标准-Eng,,0,0,0,,You see, SpongeBob
-Dialogue: 1,0:17:39.20,0:17:42.29,标准-Chi,,0,0,0,,平平是从一个只要揍别人
+Dialogue: 1,0:17:39.20,0:17:42.29,标准-Chi,,0,0,0,,在平平老家的那个小镇  揍别人
 Dialogue: 0,0:17:39.20,0:17:42.29,标准-Eng,,0,0,0,,Flats is from a town where "kicking someone's butt"
-Dialogue: 1,0:17:42.29,0:17:45.16,标准-Chi,,0,0,0,,就表示想要交朋友的镇上来的
+Dialogue: 1,0:17:42.29,0:17:45.16,标准-Chi,,0,0,0,,意思就是想要交朋友
 Dialogue: 0,0:17:42.29,0:17:45.16,标准-Eng,,0,0,0,,means that he wants to be your friend
-Dialogue: 1,0:17:45.75,0:17:49.33,标准-Chi,,0,0,0,,那边揍别人也可能表示周末一起锻炼
+Dialogue: 1,0:17:45.75,0:17:49.33,标准-Chi,,0,0,0,,也可能表示周末一起锻炼
 Dialogue: 0,0:17:45.75,0:17:49.33,标准-Eng,,0,0,0,,and maybe play some sports with you on weekends
 Dialogue: 1,0:17:49.46,0:17:51.38,标准-Chi,,0,0,0,,我拉肚子了
 Dialogue: 0,0:17:49.46,0:17:51.38,标准-Eng,,0,0,0,,I got diarrhea
@@ -853,9 +854,9 @@ Dialogue: 1,0:18:03.89,0:18:05.68,标准-Chi,,0,0,0,,泡芙老师反而让事情
 Dialogue: 0,0:18:03.89,0:18:05.68,标准-Eng,,0,0,0,,and Mrs. Puff only made it worse
 Dialogue: 1,0:18:05.68,0:18:07.60,标准-Chi,,0,0,0,,我上学就坐在你儿子平平旁边
 Dialogue: 0,0:18:05.68,0:18:07.60,标准-Eng,,0,0,0,,I sit next to your son Flats in school
-Dialogue: 1,0:18:07.60,0:18:09.23,标准-Chi,,0,0,0,,他只不过是个好孩子
+Dialogue: 1,0:18:07.60,0:18:09.23,标准-Chi,,0,0,0,,他算是个好孩子
 Dialogue: 0,0:18:07.60,0:18:09.23,标准-Eng,,0,0,0,,and he is a fine boy and all
-Dialogue: 1,0:18:09.23,0:18:10.90,标准-Chi,,0,0,0,,我其实也不太想要让你误会了
+Dialogue: 1,0:18:09.23,0:18:10.90,标准-Chi,,0,0,0,,我也不希望你误会
 Dialogue: 0,0:18:09.23,0:18:10.90,标准-Eng,,0,0,0,,and I don't want you to take this the wrong way
 Dialogue: 1,0:18:10.90,0:18:12.48,标准-Chi,,0,0,0,,可是他真的想要揍我
 Dialogue: 0,0:18:10.90,0:18:12.48,标准-Eng,,0,0,0,,but he wants to kick my butt
@@ -869,24 +870,24 @@ Dialogue: 1,0:18:18.70,0:18:20.87,标准-Chi,,0,0,0,,现在他要揍我了
 Dialogue: 0,0:18:18.70,0:18:20.87,标准-Eng,,0,0,0,,Now he's going to kick my butt
 Dialogue: 1,0:18:25.62,0:18:28.00,标准-Chi,,0,0,0,,都借过
 Dialogue: 0,0:18:25.62,0:18:28.00,标准-Eng,,0,0,0,,Out of my way
-Dialogue: 1,0:18:28.08,0:18:30.75,标准-Chi,,0,0,0,,那人要揍我  看到了吗
-Dialogue: 0,0:18:28.08,0:18:30.75,标准-Eng,,0,0,0,,Can't you see he's going to kick my butt?
-Dialogue: 1,0:18:32.21,0:18:33.59,标准-Chi,,0,0,0,,你们好  年轻人
-Dialogue: 0,0:18:32.21,0:18:33.59,标准-Eng,,0,0,0,,Hi there, young people
+Dialogue: 1,0:18:28.33,0:18:30.75,标准-Chi,,0,0,0,,那人要揍我  看不出来吗
+Dialogue: 0,0:18:28.33,0:18:30.75,标准-Eng,,0,0,0,,Can't you see he's going to kick my butt?
+Dialogue: 1,0:18:32.21,0:18:33.77,标准-Chi,,0,0,0,,你们好  年轻人
+Dialogue: 0,0:18:32.21,0:18:33.77,标准-Eng,,0,0,0,,Hi there, young people
 Dialogue: 0,0:18:32.21,0:18:35.55,画面内容,,0,0,0,,{\pos(1018,326)}公交站
-Dialogue: 1,0:18:33.59,0:18:35.55,标准-Chi,,0,0,0,,今天真是好天气
-Dialogue: 0,0:18:33.59,0:18:35.55,标准-Eng,,0,0,0,,Nice day today
-Dialogue: 1,0:18:35.71,0:18:38.38,标准-Chi,,0,0,0,,所以说你喜欢揍人  是不是
-Dialogue: 0,0:18:35.71,0:18:38.38,标准-Eng,,0,0,0,,So you like kickin' butts, do ya?
-Dialogue: 1,0:18:38.38,0:18:40.34,标准-Chi,,0,0,0,,那咱就好好来揍你  臭老头
-Dialogue: 0,0:18:38.38,0:18:40.34,标准-Eng,,0,0,0,,Well, we'll show you, old man
-Dialogue: 1,0:18:47.18,0:18:48.31,标准-Chi,,0,0,0,,好  好
-Dialogue: 0,0:18:47.18,0:18:48.31,标准-Eng,,0,0,0,,Okay, okay
+Dialogue: 1,0:18:33.77,0:18:35.55,标准-Chi,,0,0,0,,今天真是好天气
+Dialogue: 0,0:18:33.77,0:18:35.55,标准-Eng,,0,0,0,,Nice day today
+Dialogue: 1,0:18:35.71,0:18:38.51,标准-Chi,,0,0,0,,所以说你喜欢揍人  是不是
+Dialogue: 0,0:18:35.71,0:18:38.51,标准-Eng,,0,0,0,,So you like kickin' butts, do ya?
+Dialogue: 1,0:18:38.51,0:18:40.34,标准-Chi,,0,0,0,,那咱就好好来揍你  臭老头
+Dialogue: 0,0:18:38.51,0:18:40.34,标准-Eng,,0,0,0,,Well, we'll show you, old man
+Dialogue: 1,0:18:47.31,0:18:48.31,标准-Chi,,0,0,0,,好  好
+Dialogue: 0,0:18:47.31,0:18:48.31,标准-Eng,,0,0,0,,Okay, okay
 Dialogue: 1,0:18:48.31,0:18:49.60,标准-Chi,,0,0,0,,我得离开这个镇子
 Dialogue: 0,0:18:48.31,0:18:49.60,标准-Eng,,0,0,0,,I got to skip town
 Dialogue: 1,0:18:49.60,0:18:50.60,标准-Chi,,0,0,0,,开始新生活
 Dialogue: 0,0:18:49.60,0:18:50.60,标准-Eng,,0,0,0,,Start a new life
-Dialogue: 1,0:18:50.60,0:18:51.98,标准-Chi,,0,0,0,,用化名来混日子
+Dialogue: 1,0:18:50.60,0:18:51.98,标准-Chi,,0,0,0,,用化名生活
 Dialogue: 0,0:18:50.60,0:18:51.98,标准-Eng,,0,0,0,,Live under an assumed name
 Dialogue: 1,0:18:51.98,0:18:53.57,标准-Chi,,0,0,0,,宝宝绵海
 Dialogue: 0,0:18:51.98,0:18:53.57,标准-Eng,,0,0,0,,BobPants SpongeSquare
@@ -899,8 +900,8 @@ Dialogue: 0,0:18:55.82,0:18:57.69,标准-Eng,,0,0,0,,and live happily ever after
 Dialogue: 1,0:18:58.07,0:19:00.86,标准-Chi,,0,0,0,,是啊  不过你忘了还有我要揍你这段
 Dialogue: 0,0:18:58.07,0:19:00.86,标准-Eng,,0,0,0,,Yeah, except you forgot the part where I kick your butt
 Dialogue: 0,0:18:58.78,0:19:00.86,画面内容,,0,0,0,,{\pos(1106,840)}裤头村垃圾
-Dialogue: 1,0:19:23.68,0:19:26.06,标准-Chi,,0,0,0,,平平  你好点了没
-Dialogue: 0,0:19:23.68,0:19:26.06,标准-Eng,,0,0,0,,Hey, Flats, you feeling better?
+Dialogue: 1,0:19:23.80,0:19:26.06,标准-Chi,,0,0,0,,平平  你好点了没
+Dialogue: 0,0:19:23.80,0:19:26.06,标准-Eng,,0,0,0,,Hey, Flats, you feeling better?
 Dialogue: 1,0:19:28.14,0:19:28.81,标准-Chi,,0,0,0,,什么
 Dialogue: 0,0:19:28.14,0:19:28.81,标准-Eng,,0,0,0,,What?
 Dialogue: 1,0:19:29.18,0:19:30.10,标准-Chi,,0,0,0,,我这是在哪
@@ -921,7 +922,7 @@ Dialogue: 1,0:19:41.45,0:19:42.49,标准-Chi,,0,0,0,,我好感动
 Dialogue: 0,0:19:41.45,0:19:42.49,标准-Eng,,0,0,0,,I'm touched
 Dialogue: 1,0:19:42.91,0:19:45.33,标准-Chi,,0,0,0,,等我揍你那会  我一定会记好的
 Dialogue: 0,0:19:42.91,0:19:45.33,标准-Eng,,0,0,0,,I'll have to remember that when I'm kicking your butt
-Dialogue: 1,0:19:46.37,0:19:47.83,标准-Chi,,0,0,0,,这些花是送我的吗
+Dialogue: 1,0:19:46.37,0:19:47.83,标准-Chi,,0,0,0,,那些花是送我的吗
 Dialogue: 0,0:19:46.37,0:19:47.83,标准-Eng,,0,0,0,,Those flowers for me?
 Dialogue: 1,0:19:48.87,0:19:51.62,标准-Chi,,0,0,0,,他还是要揍我
 Dialogue: 0,0:19:48.87,0:19:51.62,标准-Eng,,0,0,0,,He's still gonna kick my butt
@@ -936,8 +937,8 @@ Dialogue: 0,0:20:05.64,0:20:08.39,标准-Eng,,0,0,0,,Gary, I'm too young to have
 Dialogue: 1,0:20:08.39,0:20:12.27,标准-Chi,,0,0,0,,我这一生还有好多的事情没有做
 Dialogue: 0,0:20:08.39,0:20:10.35,标准-Eng,,0,0,0,,There are so many things in life
 Dialogue: 0,0:20:10.35,0:20:12.27,标准-Eng,,0,0,0,,that I haven't gotten to do
-Dialogue: 1,0:20:12.44,0:20:14.69,标准-Chi,,0,0,0,,请稍等  将为您的通话进行转接
-Dialogue: 0,0:20:12.44,0:20:14.69,标准-Eng,,0,0,0,,Hang on, I'll transfer your call
+Dialogue: 1,0:20:12.44,0:20:14.81,标准-Chi,,0,0,0,,请稍等  将为您的通话进行转接
+Dialogue: 0,0:20:12.44,0:20:14.81,标准-Eng,,0,0,0,,Hang on, I'll transfer your call
 Dialogue: 1,0:20:15.61,0:20:16.61,标准-Chi,,0,0,0,,谁啊
 Dialogue: 0,0:20:15.61,0:20:16.61,标准-Eng,,0,0,0,,Who is it?
 Dialogue: 1,0:20:19.73,0:20:21.03,标准-Chi,,0,0,0,,平平
@@ -952,38 +953,38 @@ Dialogue: 1,0:20:40.01,0:20:41.34,标准-Chi,,0,0,0,,开揍了
 Dialogue: 0,0:20:40.01,0:20:41.34,标准-Eng,,0,0,0,,Let's do it
 Dialogue: 1,0:20:41.51,0:20:42.42,标准-Chi,,0,0,0,,小蜗快走
 Dialogue: 0,0:20:41.51,0:20:42.42,标准-Eng,,0,0,0,,Go away, Gary
-Dialogue: 1,0:20:42.42,0:20:43.97,标准-Chi,,0,0,0,,我不想要你看到这一幕
+Dialogue: 1,0:20:42.42,0:20:43.97,标准-Chi,,0,0,0,,最好别看这一幕
 Dialogue: 0,0:20:42.42,0:20:43.97,标准-Eng,,0,0,0,,I don't want you to see this
 Dialogue: 1,0:20:43.97,0:20:45.18,标准-Chi,,0,0,0,,会很难看的
 Dialogue: 0,0:20:43.97,0:20:45.18,标准-Eng,,0,0,0,,it'll be ugly
-Dialogue: 1,0:20:47.22,0:20:48.26,标准-Chi,,0,0,0,,准备好了吗
-Dialogue: 0,0:20:47.22,0:20:48.26,标准-Eng,,0,0,0,,Are you ready?
+Dialogue: 1,0:20:47.39,0:20:48.26,标准-Chi,,0,0,0,,准备好了吗
+Dialogue: 0,0:20:47.39,0:20:48.26,标准-Eng,,0,0,0,,Are you ready?
 Dialogue: 1,0:20:48.26,0:20:49.10,标准-Chi,,0,0,0,,等下
 Dialogue: 0,0:20:48.26,0:20:49.10,标准-Eng,,0,0,0,,Hold on
-Dialogue: 1,0:20:51.98,0:20:53.27,标准-Chi,,0,0,0,,行了  我准备好了
-Dialogue: 0,0:20:51.98,0:20:53.27,标准-Eng,,0,0,0,,Okay, I'm ready
+Dialogue: 1,0:20:52.02,0:20:53.27,标准-Chi,,0,0,0,,行了  我准备好了
+Dialogue: 0,0:20:52.02,0:20:53.27,标准-Eng,,0,0,0,,Okay, I'm ready
 Dialogue: 1,0:20:58.69,0:20:59.98,标准-Chi,,0,0,0,,都说我准备好了
 Dialogue: 0,0:20:58.69,0:20:59.98,标准-Eng,,0,0,0,,I said, I'm ready
-Dialogue: 1,0:21:04.70,0:21:05.78,标准-Chi,,0,0,0,,没听到吗
-Dialogue: 0,0:21:04.70,0:21:05.78,标准-Eng,,0,0,0,,Didn't you hear me?
+Dialogue: 1,0:21:04.78,0:21:05.78,标准-Chi,,0,0,0,,没听到吗
+Dialogue: 0,0:21:04.78,0:21:05.78,标准-Eng,,0,0,0,,Didn't you hear me?
 Dialogue: 1,0:21:05.78,0:21:06.95,标准-Chi,,0,0,0,,都说我准备好了
 Dialogue: 0,0:21:05.78,0:21:06.95,标准-Eng,,0,0,0,,I said I'm ready
-Dialogue: 1,0:21:09.41,0:21:10.62,标准-Chi,,0,0,0,,好痒
-Dialogue: 0,0:21:09.41,0:21:10.62,标准-Eng,,0,0,0,,That tickled
+Dialogue: 1,0:21:09.41,0:21:10.74,标准-Chi,,0,0,0,,好痒
+Dialogue: 0,0:21:09.41,0:21:10.74,标准-Eng,,0,0,0,,That tickled
 Dialogue: 1,0:21:19.46,0:21:20.09,标准-Chi,,0,0,0,,小蜗
 Dialogue: 0,0:21:19.46,0:21:20.09,标准-Eng,,0,0,0,,Gary
 Dialogue: 1,0:21:20.38,0:21:23.05,标准-Chi,,0,0,0,,我在吸收他揍我的力  好像我是某种
 Dialogue: 0,0:21:20.38,0:21:23.05,标准-Eng,,0,0,0,,I'm absorbing his blows like I was made of some kind of
-Dialogue: 1,0:21:23.17,0:21:24.67,标准-Chi,,0,0,0,,疏松材料组成的
+Dialogue: 1,0:21:23.17,0:21:24.67,标准-Chi,,0,0,0,,疏松海绵材料组成的
 Dialogue: 0,0:21:23.17,0:21:24.67,标准-Eng,,0,0,0,,spongy material
 Dialogue: 1,0:21:24.93,0:21:26.38,标准-Chi,,0,0,0,,知道什么意思了吧
 Dialogue: 0,0:21:24.93,0:21:26.38,标准-Eng,,0,0,0,,And do you know what that means?
-Dialogue: 1,0:21:26.55,0:21:29.22,标准-Chi,,0,0,0,,我明天可以去上班了
-Dialogue: 0,0:21:26.55,0:21:29.22,标准-Eng,,0,0,0,,I get to go to work tomorrow
-Dialogue: 1,0:21:32.43,0:21:33.79,标准-Chi,,0,0,0,,你有七吗
-Dialogue: 0,0:21:32.43,0:21:33.79,标准-Eng,,0,0,0,,Do you have any sevens?
-Dialogue: 1,0:22:01.21,0:22:02.71,标准-Chi,,0,0,0,,平平  你没事吧
-Dialogue: 0,0:22:01.21,0:22:02.71,标准-Eng,,0,0,0,,Flats, are you okay?
+Dialogue: 1,0:21:26.55,0:21:29.43,标准-Chi,,0,0,0,,我明天可以去上班了
+Dialogue: 0,0:21:26.55,0:21:29.43,标准-Eng,,0,0,0,,I get to go to work tomorrow
+Dialogue: 1,0:21:32.52,0:21:33.79,标准-Chi,,0,0,0,,你有七吗
+Dialogue: 0,0:21:32.52,0:21:33.79,标准-Eng,,0,0,0,,Do you have any sevens?
+Dialogue: 1,0:22:01.29,0:22:02.71,标准-Chi,,0,0,0,,平平  你没事吧
+Dialogue: 0,0:22:01.29,0:22:02.71,标准-Eng,,0,0,0,,Flats, are you okay?
 Dialogue: 1,0:22:05.30,0:22:08.05,标准-Chi,,0,0,0,,不要给我欢呼了  我的大人同学们
 Dialogue: 0,0:22:05.30,0:22:08.05,标准-Eng,,0,0,0,,Do not cheer me, my fellow adult classmates
 Dialogue: 1,0:22:08.43,0:22:10.35,标准-Chi,,0,0,0,,平平才是真正的受害者
@@ -991,17 +992,17 @@ Dialogue: 0,0:22:08.43,0:22:10.35,标准-Eng,,0,0,0,,Flats was the real victim h
 Dialogue: 1,0:22:10.68,0:22:14.98,标准-Chi,,0,0,0,,被社会所迫走上暴力不归路的受害者
 Dialogue: 0,0:22:10.68,0:22:13.01,标准-Eng,,0,0,0,,A victim of a society that's riding down
 Dialogue: 0,0:22:13.01,0:22:14.98,标准-Eng,,0,0,0,,a violent road to nowhere
-Dialogue: 1,0:22:15.18,0:22:16.39,标准-Chi,,0,0,0,,我管这条不归路叫
-Dialogue: 0,0:22:15.18,0:22:16.39,标准-Eng,,0,0,0,,a road I call
-Dialogue: 1,0:22:16.48,0:22:17.60,标准-Chi,,0,0,0,,暴路
-Dialogue: 0,0:22:16.48,0:22:17.60,标准-Eng,,0,0,0,,"Violence Road"
+Dialogue: 1,0:22:15.18,0:22:16.48,标准-Chi,,0,0,0,,我管这条不归路叫
+Dialogue: 0,0:22:15.18,0:22:16.48,标准-Eng,,0,0,0,,a road I call
+Dialogue: 1,0:22:16.48,0:22:17.73,标准-Chi,,0,0,0,,暴路
+Dialogue: 0,0:22:16.48,0:22:17.73,标准-Eng,,0,0,0,,"Violence Road"
 Dialogue: 1,0:22:17.94,0:22:19.44,标准-Chi,,0,0,0,,抱歉同学们  我迟到了
 Dialogue: 0,0:22:17.94,0:22:19.44,标准-Eng,,0,0,0,,Sorry I'm late, class
 Dialogue: 1,0:22:19.44,0:22:19.69,标准-Chi,,0,0,0,,我
 Dialogue: 0,0:22:19.44,0:22:19.69,标准-Eng,,0,0,0,,I
 Dialogue: 1,0:22:22.98,0:22:24.48,标准-Chi,,0,0,0,,海绵宝宝
 Dialogue: 0,0:22:22.98,0:22:24.48,标准-Eng,,0,0,0,,SpongeBob
-Dialogue: 1,0:22:24.69,0:22:28.41,标准-Chi,,0,0,0,,你居然把新同学给打趴下了
-Dialogue: 0,0:22:24.69,0:22:28.41,标准-Eng,,0,0,0,,I can't believe you beat up a new student
+Dialogue: 1,0:22:24.69,0:22:28.57,标准-Chi,,0,0,0,,你居然把新同学给打趴下了
+Dialogue: 0,0:22:24.69,0:22:28.57,标准-Eng,,0,0,0,,I can't believe you beat up a new student
 Dialogue: 1,0:22:28.86,0:22:31.58,标准-Chi,,0,0,0,,我现在要揍你了
 Dialogue: 0,0:22:28.86,0:22:31.58,标准-Eng,,0,0,0,,I'm going to kick your butt
