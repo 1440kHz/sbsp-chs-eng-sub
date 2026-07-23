@@ -6,21 +6,21 @@ ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
-PlayResX: 1424
+PlayResX: 1440
 PlayResY: 1080
 Original Translation: 1440kHz
-Update Details: v2
+Update Details: v3
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: S02E14 - Welcome to the Chum Bucket & Frankendoodle .mkv
-Video File: S02E14 - Welcome to the Chum Bucket & Frankendoodle .mkv
+Audio File: SpongeBob SquarePants_S02E14_Welcome to the Chum Bucket_Frankendoodle.mkv
+Video File: SpongeBob SquarePants_S02E14_Welcome to the Chum Bucket_Frankendoodle.mkv
 Video AR Mode: 4
-Video AR Value: 1.318519
+Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 886
-Active Line: 880
-Video Position: 34165
+Scroll Position: 896
+Active Line: 901
+Video Position: 34035
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -101,7 +101,7 @@ Dialogue: 1,0:01:32.73,0:01:34.40,标准-Chi,,0,0,0,,十五年来  我每周四�
 Dialogue: 0,0:01:32.73,0:01:34.40,标准-Eng,,0,0,0,,Why, I've been taking him to the cleaners
 Dialogue: 1,0:01:34.40,0:01:37.16,标准-Chi,,0,0,0,,都能把他钱都给赢走
 Dialogue: 0,0:01:34.40,0:01:37.16,标准-Eng,,0,0,0,,every Thursday night for 15 years
-Dialogue: 1,0:01:37.61,0:01:39.07,标准-Chi,,0,0,0,,我不可能输
+Dialogue: 1,0:01:37.61,0:01:39.07,标准-Chi,,0,0,0,,我从来没输过
 Dialogue: 0,0:01:37.61,0:01:39.07,标准-Eng,,0,0,0,,I never lose
 Dialogue: 1,0:01:52.96,0:01:54.51,标准-Chi,,0,0,0,,把他钱都赢走
 Dialogue: 0,0:01:52.96,0:01:54.51,标准-Eng,,0,0,0,,Taking him to the cleaners
@@ -137,7 +137,7 @@ Dialogue: 1,0:02:16.53,0:02:17.61,标准-Chi,,0,0,0,,你
 Dialogue: 0,0:02:16.53,0:02:17.61,标准-Eng,,0,0,0,,you
 Dialogue: 1,0:02:17.90,0:02:18.86,标准-Chi,,0,0,0,,什么
 Dialogue: 0,0:02:17.90,0:02:18.86,标准-Eng,,0,0,0,,What?
-Dialogue: 1,0:02:18.86,0:02:21.54,标准-Chi,,0,0,0,,我拿你当赌注  然后我输了
+Dialogue: 1,0:02:18.86,0:02:21.54,标准-Chi,,0,0,0,,我拿你合同当赌注  然后我输了
 Dialogue: 0,0:02:18.86,0:02:21.54,标准-Eng,,0,0,0,,I bet your contract and I lost
 Dialogue: 1,0:02:23.99,0:02:25.40,标准-Chi,,0,0,0,,真好笑  蟹老板
 Dialogue: 0,0:02:23.99,0:02:25.40,标准-Eng,,0,0,0,,Good one, Mr. Krabs
@@ -183,11 +183,11 @@ Dialogue: 1,0:03:29.35,0:03:31.73,标准-Chi,,0,0,0,,蟹老板
 Dialogue: 0,0:03:29.35,0:03:31.73,标准-Eng,,0,0,0,,Mr. Krabs
 Dialogue: 1,0:03:33.86,0:03:36.60,标准-Chi,,0,0,0,,这可是你最大的失误  老螃蟹
 Dialogue: 0,0:03:33.86,0:03:36.60,标准-Eng,,0,0,0,,This is your greatest blunder, Krabs
-Dialogue: 1,0:03:36.60,0:03:39.86,标准-Chi,,0,0,0,,十五年来  我玩牌就是为了
+Dialogue: 1,0:03:36.60,0:03:39.86,标准-Chi,,0,0,0,,十五年来  我打牌都在故意放水
 Dialogue: 0,0:03:36.60,0:03:39.86,标准-Eng,,0,0,0,,For 15 years, I've been throwing those card games
-Dialogue: 1,0:03:39.86,0:03:41.78,标准-Chi,,0,0,0,,等着你失手
+Dialogue: 1,0:03:39.86,0:03:41.78,标准-Chi,,0,0,0,,就是为了等着你失手
 Dialogue: 0,0:03:39.86,0:03:41.78,标准-Eng,,0,0,0,,just waiting for you to slip up
-Dialogue: 1,0:03:41.78,0:03:45.48,标准-Chi,,0,0,0,,虽然蟹黄堡秘方并没有到我手上
+Dialogue: 1,0:03:41.78,0:03:45.48,标准-Chi,,0,0,0,,虽然珍贵的蟹黄堡秘方没到手
 Dialogue: 0,0:03:41.78,0:03:45.48,标准-Eng,,0,0,0,,I may not have the precious Krabby Patty formula
 Dialogue: 1,0:03:45.48,0:03:47.48,标准-Chi,,0,0,0,,但是我拥有第二好的东西
 Dialogue: 0,0:03:45.48,0:03:47.48,标准-Eng,,0,0,0,,but I've got the next best thing
@@ -244,11 +244,11 @@ Dialogue: 1,0:05:23.97,0:05:27.05,标准-Chi,,0,0,0,,确实是如此
 Dialogue: 0,0:05:23.97,0:05:27.05,标准-Eng,,0,0,0,,This is surely so
 Dialogue: 1,0:05:27.05,0:05:33.64,标准-Chi,,0,0,0,,无论如何  薯条仍是薯条
 Dialogue: 0,0:05:27.05,0:05:33.64,标准-Eng,,0,0,0,,And fries should be fries either way
-Dialogue: 1,0:05:33.64,0:05:37.02,标准-Chi,,0,0,0,,但这烤架不属于家
+Dialogue: 1,0:05:33.64,0:05:37.02,标准-Chi,,0,0,0,,但这烤架没有家的感觉
 Dialogue: 0,0:05:33.64,0:05:37.02,标准-Eng,,0,0,0,,But this grill is not a home
 Dialogue: 1,0:05:37.24,0:05:40.61,标准-Chi,,0,0,0,,炉台我也不熟悉
 Dialogue: 0,0:05:37.24,0:05:40.61,标准-Eng,,0,0,0,,This is not the stove I know
-Dialogue: 1,0:05:40.82,0:05:47.86,标准-Chi,,0,0,0,,我可以把它换过去  只愿你能够回来
+Dialogue: 1,0:05:40.82,0:05:47.86,标准-Chi,,0,0,0,,我可以让出这一切  只愿你能够回来
 Dialogue: 0,0:05:40.82,0:05:47.86,标准-Eng,,0,0,0,,I would trade it all away if you'd come back to stay
 Dialogue: 1,0:05:47.86,0:05:54.84,标准-Chi,,0,0,0,,这间厨房没有你  不一样
 Dialogue: 0,0:05:47.86,0:05:54.84,标准-Eng,,0,0,0,,This kitchen's not the same without you
@@ -276,7 +276,7 @@ Dialogue: 1,0:06:23.48,0:06:25.65,标准-Chi,,0,0,0,,你应该要清楚那样子
 Dialogue: 0,0:06:23.48,0:06:25.65,标准-Eng,,0,0,0,,You know that never works
 Dialogue: 1,0:06:25.65,0:06:27.32,标准-Chi,,0,0,0,,答案很明显
 Dialogue: 0,0:06:25.65,0:06:27.32,标准-Eng,,0,0,0,,The answer is obvious
-Dialogue: 1,0:06:27.32,0:06:28.70,标准-Chi,,0,0,0,,要让海绵宝宝工作
+Dialogue: 1,0:06:27.32,0:06:28.70,标准-Chi,,0,0,0,,要打动海绵宝宝
 Dialogue: 0,0:06:27.32,0:06:28.70,标准-Eng,,0,0,0,,To get to the SpongeBob
 Dialogue: 1,0:06:28.70,0:06:31.23,标准-Chi,,0,0,0,,你必须要在他面前表现出同情与理解
 Dialogue: 0,0:06:28.70,0:06:31.23,标准-Eng,,0,0,0,,you must show him compassion and understanding
@@ -288,7 +288,7 @@ Dialogue: 1,0:06:34.49,0:06:35.49,标准-Chi,,0,0,0,,我还在想办法
 Dialogue: 0,0:06:34.49,0:06:35.49,标准-Eng,,0,0,0,,I'm thinking
 Dialogue: 1,0:06:36.12,0:06:37.68,标准-Chi,,0,0,0,,想到了
 Dialogue: 0,0:06:36.12,0:06:37.68,标准-Eng,,0,0,0,,I've got it
-Dialogue: 1,0:06:37.68,0:06:39.37,标准-Chi,,0,0,0,,要让海绵宝宝工作
+Dialogue: 1,0:06:37.68,0:06:39.37,标准-Chi,,0,0,0,,要打动海绵宝宝
 Dialogue: 0,0:06:37.68,0:06:39.37,标准-Eng,,0,0,0,,To get to the SpongeBob
 Dialogue: 1,0:06:39.37,0:06:42.33,标准-Chi,,0,0,0,,我就得在他面前表现出同情与理解
 Dialogue: 0,0:06:39.37,0:06:42.33,标准-Eng,,0,0,0,,I'll show him compassion and understanding
@@ -368,9 +368,9 @@ Dialogue: 1,0:08:00.29,0:08:02.92,标准-Chi,,0,0,0,,再走几步  海绵宝宝
 Dialogue: 0,0:08:00.29,0:08:02.92,标准-Eng,,0,0,0,,Just a few more steps, SpongeBob
 Dialogue: 1,0:08:03.37,0:08:05.75,标准-Chi,,0,0,0,,好了  可以摘眼罩了
 Dialogue: 0,0:08:03.37,0:08:05.75,标准-Eng,,0,0,0,,Okay, go ahead, take it off
-Dialogue: 1,0:08:05.75,0:08:11.22,标准-Chi,,0,0,0,,这边把蟹堡王厨房丝毫不差仿过来了
+Dialogue: 1,0:08:05.75,0:08:11.22,标准-Chi,,0,0,0,,这里完美复刻了蟹堡王的厨房
 Dialogue: 0,0:08:05.75,0:08:11.22,标准-Eng,,0,0,0,,lt's an exact replica of the Krusty Krab kitchen
-Dialogue: 1,0:08:12.43,0:08:14.34,标准-Chi,,0,0,0,,还真是丝毫不差
+Dialogue: 1,0:08:12.43,0:08:14.34,标准-Chi,,0,0,0,,还真是完美复刻
 Dialogue: 0,0:08:12.43,0:08:14.34,标准-Eng,,0,0,0,,It is an exact replica
 Dialogue: 1,0:08:14.52,0:08:15.71,标准-Chi,,0,0,0,,水池在这
 Dialogue: 0,0:08:14.52,0:08:15.71,标准-Eng,,0,0,0,,Here's the sink
@@ -431,7 +431,7 @@ Dialogue: 1,0:09:32.34,0:09:34.02,标准-Chi,,0,0,0,,不错嘛  海绵宝宝
 Dialogue: 0,0:09:32.34,0:09:34.02,标准-Eng,,0,0,0,,Good one, SpongeBob
 Dialogue: 1,0:09:34.02,0:09:36.13,标准-Chi,,0,0,0,,可是讲真  要不你去给咱做蟹黄堡吧
 Dialogue: 0,0:09:34.02,0:09:36.13,标准-Eng,,0,0,0,,But really, why don't you go ahead and make us a patty
-Dialogue: 1,0:09:38.09,0:09:40.40,标准-Chi,,0,0,0,,不要  我不太想吃蟹黄堡
+Dialogue: 1,0:09:38.09,0:09:40.40,标准-Chi,,0,0,0,,不要  我不太想做
 Dialogue: 0,0:09:38.09,0:09:40.40,标准-Eng,,0,0,0,,Nah, I don't really feel like it
 Dialogue: 1,0:09:40.40,0:09:41.93,标准-Chi,,0,0,0,,我真就不懂了
 Dialogue: 0,0:09:40.40,0:09:41.93,标准-Eng,,0,0,0,,But I don't understand
@@ -463,7 +463,7 @@ Dialogue: 1,0:10:09.75,0:10:12.63,标准-Chi,,0,0,0,,海绵宝宝  快进来
 Dialogue: 0,0:10:09.75,0:10:12.63,标准-Eng,,0,0,0,,SpongeBob, come in here
 Dialogue: 1,0:10:14.21,0:10:19.18,标准-Chi,,0,0,0,,是不是应该要改叫机器海绵厨师宝宝
 Dialogue: 0,0:10:14.21,0:10:19.18,标准-Eng,,0,0,0,,Or should I say RobotBob SpongeChefPants?
-Dialogue: 1,0:10:19.80,0:10:21.76,标准-Chi,,0,0,0,,我都把脑子放到机器里面去了
+Dialogue: 1,0:10:19.80,0:10:21.76,标准-Chi,,0,0,0,,我都把你脑子放到机器里面去了
 Dialogue: 0,0:10:19.80,0:10:21.76,标准-Eng,,0,0,0,,l put the brain in the robot, you know
 Dialogue: 1,0:10:21.76,0:10:24.12,标准-Chi,,0,0,0,,你就不该这么娇生惯养
 Dialogue: 0,0:10:21.76,0:10:24.12,标准-Eng,,0,0,0,,You shouldn't have been a spoiled brat
@@ -475,7 +475,7 @@ Dialogue: 1,0:10:33.61,0:10:36.40,标准-Chi,,0,0,0,,回答  等会再叫我
 Dialogue: 0,0:10:33.61,0:10:36.40,标准-Eng,,0,0,0,,Response: Why don't you ask me later?
 Dialogue: 1,0:10:36.67,0:10:39.17,标准-Chi,,0,0,0,,什么
 Dialogue: 0,0:10:36.67,0:10:39.17,标准-Eng,,0,0,0,,What?
-Dialogue: 1,0:10:39.17,0:10:40.54,标准-Chi,,0,0,0,,去做焊接了
+Dialogue: 1,0:10:39.17,0:10:40.54,标准-Chi,,0,0,0,,你焊你的去  别找我
 Dialogue: 0,0:10:39.17,0:10:40.54,标准-Eng,,0,0,0,,Get welded
 Dialogue: 1,0:10:40.54,0:10:41.37,标准-Chi,,0,0,0,,别走
 Dialogue: 0,0:10:40.54,0:10:41.37,标准-Eng,,0,0,0,,Wait
@@ -509,7 +509,7 @@ Dialogue: 1,0:11:19.19,0:11:20.72,标准-Chi,,0,0,0,,我求你了
 Dialogue: 0,0:11:19.19,0:11:20.72,标准-Eng,,0,0,0,,I beg of you
 Dialogue: 1,0:11:20.72,0:11:23.61,标准-Chi,,0,0,0,,要不你给我五十块
 Dialogue: 0,0:11:20.72,0:11:23.61,标准-Eng,,0,0,0,,How about you give me 50 bucks
-Dialogue: 1,0:11:23.61,0:11:24.87,标准-Chi,,0,0,0,,我把他从你那买回来
+Dialogue: 1,0:11:23.61,0:11:24.87,标准-Chi,,0,0,0,,我就帮你把他那个包袱收回来
 Dialogue: 0,0:11:23.61,0:11:24.87,标准-Eng,,0,0,0,,and I'll take him off your hands?
 Dialogue: 1,0:11:24.87,0:11:25.87,标准-Chi,,0,0,0,,成交
 Dialogue: 0,0:11:24.87,0:11:25.87,标准-Eng,,0,0,0,,It's a deal
@@ -596,7 +596,7 @@ Dialogue: 1,0:13:39.56,0:13:40.82,标准-Chi,,0,0,0,,你在画什么
 Dialogue: 0,0:13:39.56,0:13:40.82,标准-Eng,,0,0,0,,What you drawing?
 Dialogue: 1,0:13:40.82,0:13:42.40,标准-Chi,,0,0,0,,退后  派大星
 Dialogue: 0,0:13:40.82,0:13:42.40,标准-Eng,,0,0,0,,Stand back, Patrick
-Dialogue: 1,0:13:42.40,0:13:44.51,标准-Chi,,0,0,0,,你往我脖子哈气  我画都画不了
+Dialogue: 1,0:13:42.40,0:13:44.51,标准-Chi,,0,0,0,,你老盯着看  我画都画不了
 Dialogue: 0,0:13:42.40,0:13:44.51,标准-Eng,,0,0,0,,I can't draw with you breathing down my neck
 Dialogue: 1,0:13:45.51,0:13:46.30,标准-Chi,,0,0,0,,好个画家
 Dialogue: 0,0:13:45.51,0:13:46.30,标准-Eng,,0,0,0,,Artists
@@ -651,7 +651,7 @@ Dialogue: 0,0:14:47.03,0:14:49.54,标准-Eng,,0,0,0,,Being an artist is a heavy 
 Dialogue: 1,0:14:49.54,0:14:53.18,标准-Chi,,0,0,0,,作的每幅画好比孩童  必须悉心呵护
 Dialogue: 0,0:14:49.54,0:14:51.57,标准-Eng,,0,0,0,,Each work of art is like a child
 Dialogue: 0,0:14:51.57,0:14:53.18,标准-Eng,,0,0,0,,and must be treated as such
-Dialogue: 1,0:14:53.18,0:14:56.05,标准-Chi,,0,0,0,,没事  我只是要画漫画而已
+Dialogue: 1,0:14:53.18,0:14:56.05,标准-Chi,,0,0,0,,拜托  我只是要画漫画而已
 Dialogue: 0,0:14:53.18,0:14:56.05,标准-Eng,,0,0,0,,Come on, I was just going to draw a cartoon
 Dialogue: 1,0:14:56.05,0:14:57.41,标准-Chi,,0,0,0,,那你咋不早说
 Dialogue: 0,0:14:56.05,0:14:57.41,标准-Eng,,0,0,0,,Okay, why didn't you say so?
@@ -667,7 +667,7 @@ Dialogue: 1,0:15:10.55,0:15:12.05,标准-Chi,,0,0,0,,不能放它进城
 Dialogue: 0,0:15:10.55,0:15:12.05,标准-Eng,,0,0,0,,We can't let him go into town
 Dialogue: 1,0:15:17.60,0:15:18.89,标准-Chi,,0,0,0,,章鱼哥好可怜
 Dialogue: 0,0:15:17.60,0:15:18.89,标准-Eng,,0,0,0,,Poor Squidward
-Dialogue: 1,0:15:20.39,0:15:22.52,标准-Chi,,0,0,0,,我刚想出了个好点子
+Dialogue: 1,0:15:20.39,0:15:22.52,标准-Chi,,0,0,0,,我脑子刚孵出了个好点子
 Dialogue: 0,0:15:20.39,0:15:22.52,标准-Eng,,0,0,0,,My brain just hatched an idea
 Dialogue: 1,0:15:30.74,0:15:32.53,标准-Chi,,0,0,0,,这绝对会超经典的
 Dialogue: 0,0:15:30.74,0:15:32.53,标准-Eng,,0,0,0,,This is going to be classic
@@ -796,7 +796,7 @@ Dialogue: 1,0:18:54.69,0:18:55.86,标准-Chi,,0,0,0,,礼物送你
 Dialogue: 0,0:18:54.69,0:18:55.86,标准-Eng,,0,0,0,,Here's your present
 Dialogue: 1,0:18:57.11,0:18:57.99,标准-Chi,,0,0,0,,不客气
 Dialogue: 0,0:18:57.11,0:18:57.99,标准-Eng,,0,0,0,,You're welcome
-Dialogue: 1,0:19:00.16,0:19:01.95,标准-Chi,,0,0,0,,在那站好  铅笔人
+Dialogue: 1,0:19:00.16,0:19:01.95,标准-Chi,,0,0,0,,不许动  铅笔人
 Dialogue: 0,0:19:00.16,0:19:01.95,标准-Eng,,0,0,0,,Hold it right there, Doodle
 Dialogue: 1,0:19:02.18,0:19:04.15,标准-Chi,,0,0,0,,我把你带到了这个世上
 Dialogue: 0,0:19:02.18,0:19:04.15,标准-Eng,,0,0,0,,I brought you into this world
@@ -824,11 +824,11 @@ Dialogue: 1,0:19:41.74,0:19:42.74,标准-Chi,,0,0,0,,放轻松
 Dialogue: 0,0:19:41.74,0:19:42.74,标准-Eng,,0,0,0,,Take it easy
 Dialogue: 1,0:19:42.74,0:19:43.82,标准-Chi,,0,0,0,,一幅画而已
 Dialogue: 0,0:19:42.74,0:19:43.82,标准-Eng,,0,0,0,,it's just a drawing
-Dialogue: 1,0:19:44.24,0:19:46.47,标准-Chi,,0,0,0,,反正完事了  对吧派大星
+Dialogue: 1,0:19:44.24,0:19:46.47,标准-Chi,,0,0,0,,总算解决掉他了  对吧派大星
 Dialogue: 0,0:19:44.24,0:19:46.47,标准-Eng,,0,0,0,,Well, that takes care of that, eh, Patrick?
 Dialogue: 1,0:19:46.47,0:19:48.08,标准-Chi,,0,0,0,,确实完事了
 Dialogue: 0,0:19:46.47,0:19:48.08,标准-Eng,,0,0,0,,Done and done
-Dialogue: 1,0:19:55.24,0:19:57.11,标准-Chi,,0,0,0,,小蜗  你真早该得过去看看的
+Dialogue: 1,0:19:55.24,0:19:57.11,标准-Chi,,0,0,0,,小蜗  你真应该在场的
 Dialogue: 0,0:19:55.24,0:19:57.11,标准-Eng,,0,0,0,,Gee, Gary, you should have been there
 Dialogue: 1,0:19:57.11,0:19:58.49,标准-Chi,,0,0,0,,真的特刺激
 Dialogue: 0,0:19:57.11,0:19:58.49,标准-Eng,,0,0,0,,It sure was exciting
@@ -845,7 +845,7 @@ Dialogue: 1,0:20:10.27,0:20:11.64,标准-Chi,,0,0,0,,晚安了  神奇铅笔
 Dialogue: 0,0:20:10.27,0:20:11.64,标准-Eng,,0,0,0,,Good night, magic pencil
 Dialogue: 1,0:20:37.09,0:20:38.09,标准-Chi,,0,0,0,,神奇铅笔
 Dialogue: 0,0:20:37.09,0:20:38.09,标准-Eng,,0,0,0,,Hey, magic pencil
-Dialogue: 1,0:20:38.09,0:20:39.13,标准-Chi,,0,0,0,,你在干什么
+Dialogue: 1,0:20:38.09,0:20:39.13,标准-Chi,,0,0,0,,你干嘛没睡
 Dialogue: 0,0:20:38.09,0:20:39.13,标准-Eng,,0,0,0,,What are you doing up?
 Dialogue: 1,0:20:39.13,0:20:40.88,标准-Chi,,0,0,0,,给自己画杯水喝吗
 Dialogue: 0,0:20:39.13,0:20:40.88,标准-Eng,,0,0,0,,Drawing yourself a glass of water?
@@ -877,7 +877,7 @@ Dialogue: 0,0:21:44.55,0:21:45.70,标准-Eng,,0,0,0,,is a draw
 Dialogue: 0,0:21:50.66,0:21:51.83,画面内容,,0,0,0,,{\fs60\pos(714,920)}也 有 笔 尖
 Dialogue: 1,0:21:50.66,0:21:51.83,标准-Chi,,0,0,0,,你说到重点了
 Dialogue: 0,0:21:50.66,0:21:51.83,标准-Eng,,0,0,0,,You've made your point
-Dialogue: 1,0:21:52.24,0:21:55.66,标准-Chi,,0,0,0,,反正没事  我高中公认美术最好
+Dialogue: 1,0:21:52.24,0:21:55.66,标准-Chi,,0,0,0,,不管怎样  我在高中公认最懂美术
 Dialogue: 0,0:21:52.24,0:21:55.66,标准-Eng,,0,0,0,,No matter, I was voted "most artistic" in high school
 Dialogue: 1,0:21:58.33,0:22:00.42,标准-Chi,,0,0,0,,海绵宝宝  你要给我付出代价
 Dialogue: 0,0:21:58.33,0:22:00.42,标准-Eng,,0,0,0,,SpongeBob, you're going to pay for that
@@ -903,7 +903,7 @@ Dialogue: 1,0:22:47.78,0:22:49.13,标准-Chi,,0,0,0,,寻求自己命中的目标
 Dialogue: 0,0:22:47.78,0:22:49.13,标准-Eng,,0,0,0,,longing for a purpose
 Dialogue: 1,0:22:49.84,0:22:50.59,标准-Chi,,0,0,0,,所以说
 Dialogue: 0,0:22:49.84,0:22:50.59,标准-Eng,,0,0,0,,So
-Dialogue: 1,0:22:51.26,0:22:52.18,标准-Chi,,0,0,0,,他就一副画了
+Dialogue: 1,0:22:51.26,0:22:52.18,标准-Chi,,0,0,0,,他就一幅画了
 Dialogue: 0,0:22:51.26,0:22:52.18,标准-Eng,,0,0,0,,he's a drawing?
 Dialogue: 1,0:22:52.40,0:22:53.74,标准-Chi,,0,0,0,,完全没错
 Dialogue: 0,0:22:52.40,0:22:53.74,标准-Eng,,0,0,0,,Exactly
